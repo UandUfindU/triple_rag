@@ -1,0 +1,121 @@
+人物简介
+
+
+冯小东  男，1988年生，安徽人，管理学博士，中山大学信息管理学院副教授，硕士生导师。长期从事信息管理领域教学、科研及社会服务工作。主要研究方向为数智驱动的在线信息及用户行为分析与挖掘，注册国家自然科学基金、教育人文社科项目及其他课题多项，发表各类学术论文50余篇。担任国内外多种核心期刊通讯评审及教育部学位中心论文评审、任ICACS2022、WHICEB2023\2024等国际学术会议程序委员会委员、Mathematical Problems in Engineering期刊共同客座编辑、Journal of Social Computing青年编委、中国优选法统筹法与经济数学研究会计算机模拟与信息技术分会理事、自动化学会具身智能专业委员会委员社会服务工作。
+
+学术专长
+
+
+在线网络平台信息挖掘，在线社区平台用户交互行为，大数据分析、机器学习与深度学习应用，文本挖掘应用等
+
+研究方向
+
+
+主要利用信息资源管理、计算机科学、管理科学与工程等多学科交叉方法研究数智驱动的在线信息挖掘、在线平台用户行为等领域相关问题。
+
+研究经历
+
+
+主持项目：
+
+1. 预发布政策公众在线意见的形成及采纳影响机制研究，国家自然科学基金项目（青年），2021-2023，在研。
+
+2. 科技事件在线舆情的政府决策反馈影响机制研究，教育人文社科一般课题（规划基金项目），2020.3-2023.3，在研。
+
+3.乡村文化旅游线上线下服务平台运营应用示范，科技部重大专项参与课题（三级课题），2019.11-2023.5，在研。
+
+4. 政务微博平台的公众情感交互及其政策效应研究，四川省哲学社会科学规划课题（一般项目），2018.10-2019.10，已结题。
+
+5. 政务微博公众参与行为研究：基于微观个体网络开放数据的视角，四川省哲学社会科学规划课题（青年项目），2016.10-2017.10，已结题。
+
+参与项目：
+
+国家社科重大、重点、一般课题及国家自科基金等项目多项。
+
+教育背景
+
+
+1. 2013/9–2014/9，明尼苏达大学，计算机科学与工程，联合培养。
+
+2. 2011/9–2015/7，北京科技大学，管理科学与工程，博士。
+
+3. 2009/9–2011/7，北京科技大学，管理科学与工程，硕士。
+
+4. 2005/9–2009/7，北京科技大学，信息管理与信息系统，学士
+
+著作论文
+
+
+发表论文40余篇，其中：
+
+期刊论文：
+
+
+	Feng Xiaodong, Liu Zhen, Wu Wenbing, Zuo Wenbo. Social recommendation via deep neural network-based multi-task learning. Expert Systems With Applications, 2022, 206:117755.
+	冯小东，惠康欣. 基于异构图神经网络的社交媒体文本主题聚类. 数据分析与知识发现，2022，2022, 6 (10): 9-19.
+	Zhao Qihang, Zhang Yuzhe, Feng Xiaodong*. Predicting Information Diffusion via Deep Temporal Convolutional Networks. Information Systems, 2022, 108:102045
+	Zhao Qihang, Feng Xiaodong*. Utilizing Citation Network Structure to Predict Paper Citation Counts: A Deep Learning Approach. Journal of Informetrics, 2022, 16(1):101235
+	Feng Xiaodong, Zhao Qihang, Li Yunkai. AECasN: An Information Cascade Predictor by Learning the Structural Representation of the Whole Cascade Network with Autoencoder. Expert Systems With Applications,2022, 191:116260
+	Feng Xiaodong, Hui Kangxin, Deng Xin, Jiang Guoyin. Understanding How the Semantic Features of Contents Influence the Diffusion of Government Microblogs: Moderating Role of Content Topics. Information & Management, 2021, 58(8):103547
+	Lan Tao, Feng Xiaodong*, Zeng Zhimin, Effect of B&B host responses to online reviews on subsequent reviews: the moderating effects of class level, Tourism Review, 2022,77(4): 1097-1115.
+	Feng Xiaodong, Zhao Qihang, Liu Zhen. Prediction of Information Cascades via Content and Structure Proximity Preserved Graph Level Embedding, Information Sciences, 2021, 560: 424-440
+	Feng Xiaodong, Wu Sen. Robust sparse coding via self-paced learning for data representation, Information Sciences, 2021, 546: 448-468.
+	Liu Zhen, Feng Xiaodong*, Wang Yecheng, Zuo Wenbo, Self-Paced Learning Enhanced Neural Matrix Factorization for Noise-aware Recommendation, Knowledge-Based Systems, 2021, 213: 106660.
+	Feng Xiaodong, Zhao Qihang, Ma Jie, Jiang Guoyin. On modeling and predicting popularity dynamics via integrating generative model and rich features, Knowledge-Based Systems, 2020, 196:105786.
+	Jiang Guoyin, Shang Jennifer, Liu Wenping, Feng Xiaodong, Lei Junli. Modeling the dynamics of online review life cycle: Role of social and economic moderations. European Journal of Operational Research，2020，285(1): 360-379
+	冯小东,李卓雅,史志慧.基于网络舆情热度的自然灾害影响评估分析. 情报探索, 2020(01):16-22.
+	Xiong Jie, Feng Xiaodong*, Tang Zhiwei. Understanding user-to-user interaction on government microblogs: An exponential random graph model with the homophily and emotional effect. Information Processing & Management, 2020,57(4): 102229.
+	Jiang Guoyin, Feng Xiaodong, Liu, Wenping, Liu, Xingjun. Clicking position and user posting behavior in online review systems: A data-driven agent-based modeling approach. Information Sciences, 2020, 512: 161-174.
+	冯小东，马捷，蒋国银. 社会信任、理性行为与政务微博传播：基于文本挖掘的实证研究. 情报学报，2019，09：38(9): 954-965
+	Feng Xiaodong, Jiang Guoyin. Why do People Comment on Government Social Media - an Empirical Analysis on China’s Local Governments in Sina Weibo. Journal of Internet and Enterprise Management，2019，9（2）： 160-178.
+	张龙鹏, 冯小东*, 汤志伟.中国建设智慧社会的现实基础与路径选择——基于技术与制度的分析维度.电子政务, 2019(04):18-26
+	冯小东，张会平. 兴趣驱动的政务微博公众评论行为影响模型及实证研究.电子政务,2018(11):23-33.
+	锁利铭，冯小东*. 数据驱动的城市精细化治理：特征、要素与系统耦合. 公共管理学报，2018,15（4）:17-26.
+	冯小东，汤志伟. 智慧城市实践中的数据利用挑战和应对. 智慧城市评论，2017(02): 23-30.
+	Feng Xiaodong, Wu Sen, Tang Zhiwei, Li Zhichao. Sparse Latent Model with dual Graph Regularization for Collaborative Filtering. Neurocomputing, 2018, 284: 128-137
+	Feng Xiaodong, Wu Sen, Zhou Wenjun. Multi-Hypergraph Consistent Sparse Coding. ACM Transactions on Intelligent Systems and Technology (TIST), 2017, 8(6): 75.
+	Feng Xiaodong, Wu Sen, Zhou Wenjun, Quan Min. Efficient locality weighted sparse representation for graph-based learning. Knowledge-Based Systems, 2017, 121: 129-141
+	Feng Xiaodong，Ankit Sharma，Jaideep Srivastava，Wu Sen，Tang Zhiwei, Social Network Regularized Sparse Linear Model for Top-N recommendation，Engineering Applications of Artificial Intelligence，2016，51:5-15.
+	Feng Xiaodong, Jiao Yuting, Lv Chuan, Dong Zhou. Label consistent semi-supervised non-negative matrix factorization for maintenance activities identification. Engineering Applications of Artificial Intelligence, 2016, 52: 161-167.
+	Feng Xiaodong, Wu Sen, Srivastava Jaideep, Prasanna Desikan. Automatic Instance Selection via Locality Constrained Sparse Representation for Missing Value Estimation. Knowledge-Based Systems, 2015, 85:210-223.
+	Wu Sen, Feng Xiaodong, Zhou Wenjun. Spectral Clustering of High-Dimensional Data Exploiting Sparse Representation Vectors. Neurocomputing, 2014, 135: 229-239.
+	冯小东，武森，王佳晔. 基于作者引用文献关系的潜在研究兴趣主题发现 .中国科技论文，2014，9（1）：65-70.
+	武森，冯小东，杨杰，张晓楠. 基于MapReduce的大规模文本聚类并行化研究.北京科技大学学报，2014，36（10）：1411-1419.
+	武森，冯小东，单志广. 基于不完备数据聚类的缺失数据填补方法. 计算机学报，2012，35(8)：1726-1738.
+
+
+会议论文：
+
+
+	Yunfei Liu, Zhen Liu, Xiaodong Feng*. Robust Attributed Network Embedding Preserving Community Information, IEEE International Conference on Data Engineering, 2022, 1874-1886.  (CCF A)
+	Rong Liu, Guoyin Jiang, Xiaodong Feng. The Role of Reputation Mechanism in Rural Tourism Platform on Multi-agent Value Co-creation: A Multi Case Study. PACIS 2021: 327
+	Feng Xiaodong, Wu Sen, Zhou Wenjun, Tang Zhiwei. Multi-hypergraph Incidence Consistent Sparse Coding for Image Data Clustering Pacific-Asia Conference on Knowledge Discovery and Data Mining. 2016: 79-91.
+	Jie Xiong, Xiaodong Feng*, Zhiwei Tang, Modeling the formation of user replying network on government microblogs: An exponential random graph mode 2019 IEEE International Conferences on Ubiquitous Computing and Communications, 2019, 133-140.
+
+
+专著：
+
+编委会委员，中国地方政府互联网服务能力报告（2019、2020、2021）--政府互联网服务能力蓝皮书（汤志伟，李金兆.著）[M]. 社会科学文献出版社，北京.
+
+获奖情况
+
+
+2015 北京科技大学优秀毕业研究生
+
+2020 电子科技大学优秀硕士论文指导老师
+
+2020/201 电子科技大学优秀本科生论文指导老师
+
+其他称号
+
+
+1. 2017.9-2021.12: 电子科技大学基础研究“星火计划”
+
+2. 2023.2至今: 中山大学“百人计划”引进人才
+
+工作经历
+
+
+1. 2023.2至今: 中山大学，信息管理学院，副教授
+
+2. 2015/7 - 2023/1: 电子科技大学，公共管理学院，讲师/副教授

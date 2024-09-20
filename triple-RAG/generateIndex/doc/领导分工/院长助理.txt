@@ -1,0 +1,3 @@
+图片链接	链接	姓名	职务	职责	邮箱跳转链接	联系方式
+https://ischool.sysu.edu.cn/sites/default/files/inline-images/%E7%BB%84%E7%BB%876.jpg	http://dpcms8.sysu.edu.cn/ischool-live/cn/content/%E5%BD%AD%E5%9B%BD%E8%B6%85	彭国超	院长助理	分管社会服务；协管人才引进、国际合作与交流。	mailto:penggch@mail.sysu.edu.cn	penggch@mail.sysu.edu.cn
+https://ischool.sysu.edu.cn/sites/default/files/inline-images/%E5%9B%BE%E7%89%871_2.png	https://ischool.sysu.edu.cn/cn/content/%E6%9D%8E%E6%99%B6	李晶	院长助理	分管研究生教育（含招生），兼任MLIS主任。	mailto:lijing359@mail.sysu.edu.cn	lijing359@mail.sysu.edu.cn

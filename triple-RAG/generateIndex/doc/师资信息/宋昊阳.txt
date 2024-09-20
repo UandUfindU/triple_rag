@@ -1,0 +1,167 @@
+人物简介
+
+
+宋昊阳（1988年—），中山大学信息管理学院副教授，硕士生导师。第八届科学学理论专委会会员，担任国内外多种核心期刊和项目的评审专家，在国内外高水平期刊，如Technology in Society、Journal of Informetrics、Scientometrics、南开管理评论、管理评论、情报学报等（SSCI、EI、CSSCI），发表论文20余篇；自2019年工作以来，主持国家、省部级、校级等各类科研项目6项；出版专著2部。
+
+学术专长
+
+
+基于机器学习的专利计量与技术发现、基于人工智能的数据安全与合规管理
+
+研究方向与主题
+
+
+专利计量：专利技术识别、专利文本分析、专利竞争战略
+
+数据治理：数据合规管理、数据分类分级、数据血缘追溯
+
+ 
+
+教学与培养理念
+
+
+
+	保持求知的内驱力与主动性，知识与能力的成长会让你快乐且与众不同。
+	认真完成该做的事，证明自己；勇于探索喜欢的事，丰富自己。
+	科研可能是枯燥的，但我找到了乐趣，也希望它能成就你。
+
+
+研究经历
+
+
+主持纵向课题：
+
+1、国家自然科学基金青年项目，“科研团队知识惯性对创新催化能力的影响研究”（72104256），2022.1-2024.12，国家级，主持，在研。
+
+2、中国博士后科学基金面上项目，“科研项目中团队间风险认知差异对协同信息行为的影响研究”（2020M683150），2021.1-2022.6，省部级，主持，结题。
+
+3、广东省哲学社会科学“十四五”规划2021年青年项目，“科研团队“二元”网络耦合对知识隐藏意愿影响机制研究”（GD21YTS02），2021.10.1-2024.6.30，省部级，在研，主持。
+
+4、广东省自然科学基金面上项目，“基于专利计量的世界四大湾区技术创新催化模式研究”，
+
+2024.1.1-2026.12.31，省部级，在研，主持。
+
+5、广州市科学技术局，2024年度基础与应用基础研究专题项目，SL2023A04J01580，粤港澳大湾区城市群科技创新协同网络研究，2024-01至2025-12，5万元，在研，主持。
+
+6、2021年高校基本科研业务费-青年教师培育项目立项.2021.3.26立项，结题。
+
+参与纵向课题：
+
+1、广东省自然科学基金项目（2021A1515012291）：面向粤港澳大湾区的基础科学研究中心转移规律及其应用研究. 2021.03-2024.03，在研.
+
+2、广东省软科学项目（2019B101001024）：基于科学大数据的新能源领域前沿技术预测研究. 2019.10-2021.10，结项.
+
+4、国家自然科学基金面上项目（71772024）：项目驱动型企业网络治理研究，2018.01-2022.01，结项.
+
+5、国家自然科学基金面上项目（71372085）：项目驱动型企业组织设计理论构建与实证研究——基于案例的质性研究方法 2014.01-2017.12，结项.
+
+6、国家自然科学基金面上项目（71171033）：面向生命周期的总承包项目知识集成研究, 2012.01-2016.01，结项.
+
+参与横向课题：
+
+1、2023.07-2023.11, 深圳市“卡脖子”领域知识产权保护创新研究课题调研，结题
+
+2、2021. 7-2022.10，基于大数据的广州市重大科技项目评审创新体系研究，结题
+
+3、2020. 7-2021. 3，广东省实验室建设的实践研究，结题
+
+4、2017. 8-2018.12，大连金普新区PPP项目规划咨询项目，结题
+
+5、2014.10-2016. 7，大连橡塑机械制造有限公司项目化改造，结题
+
+6、2014. 8-2014.12，陕西延长石油有限公司集团管控模式研究，结题
+
+7、2013. 7-2013.12，华能大连电厂海水淡化城市饮用水项目，结题
+
+8、2013. 5-2013.10，捷飞特（大连）工业技术有限公司项目管理咨询与培训项目，结题
+
+9、2011.11-2012. 6，大连机床厂产品开发与生产基地建设项目的可行性分析，结题
+
+教育背景
+
+
+2014年9月—2019年7月，大连理工大学，经济与管理学院，项目管理专业，博士
+
+2011年9月—2014年7月，大连理工大学，经济与管理学院，项目管理专业，硕士
+
+2007年9月—2011年7月，辽宁大学，商学院，项目管理专业，学士
+
+著作论文
+
+
+（1）期刊论文
+
+
+	JianhuaHou#, Xiucai Yang, Haoyang Song*, Yang Zhang. Will Patent Family Be Dormant  Research on the Identification and Characteristics of Sleeping Beauty’s Patent Family. Scientometrics, 2023. (ISSN: 0138-9130, SSCI, SCIE, Q2).
+	Hou Jianhua#, Yuyao He, Conglin Ye,Zhuomalamu,Suolanglamu,Song Haoyang*. Does scientific collaboration variety influence the impact of articles  Journal of Information Science, 2023.
+	张洋#, 常赵鑫, 宋昊阳*. 学术社群创新催化能力研究——以“图书情报与档案管理”为例, 情报理论与实践, 2023,46(08):77-87.
+	Houqiang Yu, Yue Wang, Shah Hussain, Haoyang Song*. Towards a better understanding of Facebook Altmetrics in LIS field: assessing the characteristics of involved paper, user and post. Scientometrics, 2023. (ISSN: 0138-9130, SSCI, SCIE, Q2).
+	Jianhua Hou#, Shiqi Tang, Haoyang Song,Yang Zhang*. Does prior knowledge affect patent technology diffusion  A semantic-based patent citation contribution analysis. Journal of Informetrics, 2023, 12:101393. (ISSN: 1751-1577, SSCI, Q2)
+	Song Haoyang#, Hou Jianhua*, Zhangyang. The measurements and determinants of patent technological value: Lifetime, strength, breadth, and dispersion from the technology diffusion perspective. Journal of Informetrics, 2023, 1(17). (ISSN: 1751-1577, SSCI, Q2)
+	Yifei Shen, Zhenduo Zhang, Haoyang Song*, Junwei Zheng, Qiong Bu. Being helpful and being innovative: The role of psychological meaningfulness and positive affect. Front. Psychol. 2022,13:1045845.  (ISSN: 2163-9353, SSCI, Q1).
+	Song Haoyang#*, Hou Jianhua*, Zhangyang. Catalytic capacity of technological innovation: Multidimensional definition and measurement from the perspective of knowledge spillover. Technology in Society. 2022, 68:101898. (ISSN: 0160-791X, SSCI, Q1)
+	Song Haoyang#, Hou Jianhua*, Zhangyang. Patent protection: Does it promote or inhibit the patented technological knowledge diffusion  Scientometrics. 2022. (ISSN: 0138-9130, SSCI, SCIE, Q2). 
+	Haoyang Song#, Jianhua Hou; Xiucai Yang; Yang Zhang*. The impact of risk perception difference of members in scientific research project team on information adoption: The moderating effect of knowledge inertia. Sustainability, 2022, 14, 7749. (ISSN: 2071-1050, SSCI, SCIE, Q2)
+	Song Haoyang#*, Hou Jianhua, Tang Shiqi. From contractual flexibility to contractor’s cooperative behavior in construction project: the multiple mediation effects of ongoing trust and justice perception. Sustainability, 2021.13:13654. (ISSN: 2071-1050, SSCI, SCIE, Q2)
+	宋昊阳#*, 侯剑华, 张洋. 基于专利计量的技术创新催化能力的多维度测量. 情报学报. 2022, 41(3): 300-313. (ISSN: 1000-0135, CSSCI, 重要期刊一B)
+	余厚强，傅坦，张啸鸣，宋昊阳*. 学术论文社交媒体提及的跨平台比较研究—以脸书和推特为例. 情报理论与实践. (ISSN: 1000-7490, CSSCI, 重要核心, 录用待刊)
+	李晶, 薛晨琦, 宋昊阳. 人机交互中的社会临场感研究——以弹幕短视频为例. 图书馆论坛, 2021.1-12.( ISSN: 1002-1167, CSSCI, 重要核心, 网络首发).
+	Song Haoyang#*, Zhu F, Klakegg O J, et al. Relationship between contractual flexibility and contractor’s cooperative behavior: The mediating effect of justice perception[J]. International Journal of Managing Projects in Business, 2018(4). (ISSN：1753-8378, SSCI, Q3)
+	朱方伟, 宋昊阳*, 王鹏, 赵萌萌. 国有集团母子公司管控模式的选择:多关键因素识别与组合影响[J].南开管理评论,2018,21(01):75-87. (ISSN: 1008-3448, CSSCI, 重要期刊一B)
+	朱方伟, 宋昊阳*, 王鹏. 项目化变革情境下企业如何克服组织惯性的束缚——基于行动研究法的路径与策略分析[J].管理评论,2018,30(08):209-224. (ISSN: 1003-1952, CSSCI, 重要核心期刊)
+	朱方伟, 宋昊阳*, 张锦兰 ,王鹏. 建设工程项目契约柔性概念界定与量表开发[J].工程管理学报,2018,32(04):116-120. （ISSN:1674-8859, CSSCI）
+	王大刚, 宋昊阳*, 方乔, 赵萌萌, 陈树文. 国有企业并购整合过程中管控能力与方式的匹配研究——以延长石油为例[J].管理案例研究与评论,2014,7(06):464-476. （ISSN:1674-1692, CSSCI扩展版）
+	王鹏#*, 朱方伟, 宋昊阳, 鲍晓娜. 人际信任与知识隐藏行为:个人声誉关注与不确定性感知的联合调节[J].管理评论,2019,31(01):155-170. ISSN: 1003-1952, CSSCI, 重要核心期刊)
+	张锦兰#*, 宋昊阳, 朱方伟, 王鹏, 张杰. 契约柔性的核心议题与研究趋势探析[J].外国经济与管理,2019,41(01):73-85.（ISSN: 1001-4950, CSSCI, 重要核心）
+	Wang P#*, Zhu F, Song H, Hou J.H. A bibliometric profile of Current Science between 1961 and 2015[J]. Current Science, 2017, 113(3):386-392. (ISSN：0011-3891, SCI, SSCI, Q3)
+	孙秀霞#*, 朱方伟, 宋昊阳. 感知信任与项目绩效:组织承诺的中介作用[J].管理评论,2016,28(12):155-165. (ISSN: 1003-1952, CSSCI, 重要核心期刊)
+	朱方伟, 宋昊阳*, 侯剑华. 我国项目管理理论研究主题分析——基于硕士学位论文的科学计量分析[J].现代情报,2014,34(01):110-114. (ISSN: 1008-0821, CSSCI扩展版)
+
+
+ 
+
+（2）著作
+
+
+	朱方伟，孙秀霞，宋昊阳. 工程项目契约柔性对承包方合作行为影响研究[M]. 北京: 科学出版社, 2022.01.
+	朱方伟，孙秀霞，宋昊阳. 管理案例采编[M]. 北京: 科学出版社, 2014.09. （全书约40万字，负责撰写字数约16万）
+
+
+ 
+
+（3）软著
+
+
+	侯剑华，唐诗琪（学生），宋昊阳，张洋. 科技成果潜在影响力计算软件. 计算机软件著作权. 登记号：2021SR193493. 开发完成日：2021年9月10日。授权日：2021年11月29日。
+
+
+ 
+
+（4）教学案例
+
+
+	百优案例：朱方伟，宋昊阳，姜孟彤. 项目管理外包：难以抉择的下调申请,2016.9.
+	入库案例：朱方伟，李思佳，宋昊阳. 为什么离开“家”一样的天骄华傲,2015.10.
+
+
+获奖情况
+
+
+1、2018年“创青春“辽宁省大学生创业大赛金奖；
+
+2、2017大连“星海之星”青年创业大赛在校大学生创业项目组一等奖；
+
+3、2016年7月，获第七届“全国百篇优秀管理案例”荣誉证书；
+
+4、2013-2014年硕士优秀毕业生；
+
+5、硕士期间连续二等奖学金；
+
+工作经历
+
+
+2022年7月—至今，中山大学，信息管理学院，情报学专业，副教授
+
+2020年7月—2022年7月，中山大学，信息管理学院，情报学专业，博士后
+
+2019年8月—2020年5月，金蝶软件（中国）有限公司，项目咨询与交付，项目咨询师

@@ -1,0 +1,29 @@
+人物简介
+    张庆，女，博士。主要研究方向为信息行为，目前为中山大学信息管理学院科研博士后。
+
+学术专长
+    数据分析，数据挖掘，机器学习
+
+研究方向
+
+    信息行为、多媒体内容分析与交互、食品计算
+
+教育背景
+
+    2018.12 – 2022.12 雷根斯堡大学信息与媒体，语言与文化学院，情报学，博士
+
+    2015. 09 – 2018.06 华南师范大学经济与管理学院，图书馆学，管理学硕士
+
+    2011.09 – 2015.07 西安翻译学院，亚欧语言文化学院，德语，文学学士
+
+著作论文
+
+    [1] Qing Zhang, David Elsweiler, Christoph Trattner, Understanding and predicting cross-cultural food preferences with online recipe images, Information Processing & Management, Volume 60, Issue 5, 2023,103443, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.2023.103443.
+
+    [2] Zhang, Q., Elsweiler, D., & Trattner, C. (2020). Visual Cultural Biases in Food Classification. Foods, 9(6), 823. MDPI AG. Retrieved from http://dx.doi.org/10.3390/foods9060823
+
+    [3] Zhang, Q., Trattner, C., Ludwig, B., & Elsweiler, D. (2019). Understanding Cross-Cultural Visual Food Tastes with Online Recipe Platforms. International Conference on Web and Social Media. 
+
+工作经历
+
+    2023.06 – 至今，中山大学，科研博士后

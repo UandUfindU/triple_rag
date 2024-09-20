@@ -1,0 +1,79 @@
+人物简介
+
+
+张洞 管理学博士，现任中山大学信息管理学院副教授、硕士生导师。主要研究领域为虚假信息检测、预测理论与方法、商品推荐和应用机器学习。目前，主持国家自然科学基金青年项目，广东省自然科学基金面上项目等。近年来，在Journal of The Association for Information Science and Technology，Decision Support Systems，Annals of Operations Research, Journal of the Operational Research Society，Information Processing & Management等情报学、管理学知名国际期刊上发表多篇学术论文。担任PACIS-2024 Associate Editor，Information Fusion、Information Processing & Management等多个国际权威期刊匿名审稿人。
+
+ 
+
+学术专长
+
+
+管理信息系统
+
+ 
+
+研究方向
+
+
+虚假信息检测，预测理论与方法，文本挖掘，商品推荐，应用机器学习。
+
+ 
+
+研究经历
+
+
+近五年主持或参加的科研项目：
+
+(1) 国家自然科学基金—青年科学基金项目, 基于虚假评论识别、对抗和消费者属性偏好预测的可解释商品排序推荐模型研究, 2023-01-01 至 2025-12-31, 在研, 主持;
+
+(2) 广东省自然科学基金-面上项目, 考虑虚假评论影响的可解释评分预测推荐模型研究, 2023-01 至 2025-12, 在研, 主持;
+
+(3) 国家自然科学基金—重大项目, 提升供应链韧性的机制设计和运营管理, 2023-01-01 至 2027-12-31, 在研, 参与;
+
+(4) 国家自然科学基金—面上项目, 城市关键基础设施网络脆弱性关联分析的本体配置研究, 2018-01-01 至 2021-12-31, 结题, 参与。
+
+ 
+
+教育背景
+
+
+2015.09 - 2021.01   哈尔滨工业大学，管理科学与工程 ，管理学博士
+
+2018.09 - 2019.09   亚利桑那大学，管理信息系统，联合培养博士生
+
+2011.09 - 2015.06   山东大学 ，工业工程 ，管理学学士
+
+ 
+
+著作论文
+
+
+代表性论文：
+
+1. Zhang Dong*, Wu Chong. What Online Review Features Really Matter  An Explainable Deep Learning Approach for Hotel Demand Forecasting, Journal of The Association for Information Science and Technology.2023, 74(9), 1100-1117 (FMS-A, ABS-3, 图情档领域TOP期刊)
+
+2. Zhang Dong, Li Wenwen, Niu Baozhuang*, Wu Chong. A deep learning approach for detecting fake reviewers: Exploiting reviewing behavior and textual information, Decision Support Systems, 2023, 166, 113911. (ABS-3, 国际信息系统协会认定的信息管理TOP期刊)
+
+3. Zhang Dong, Niu Baozhuang*. Leveraging Online Reviews for Hotel Demand Forecasting: A Deep Learning Approach. Information Processing & Management, 2024, 61(1), 103527. (ABS-2)
+
+4. Zhang Dong, Wu Chong*, Jiaming Liu. Ranking products with online reviews: a novel method based on hesitant fuzzy set and sentiment word framework. Journal of the Operational Research Society. 2020, 71(3), 528-542. (ABS-3, cited by 53)
+
+5. Zhang Dong, Li Yongli, Wu Chong*. An extended TODIM method to rank products with online reviews under intuitionistic fuzzy environment. Journal of the Operational Research Society. 2020, 71 (2), 322-334.  (ABS-3, cited by 49)
+
+ 
+
+获奖情况
+
+
+1. 哈尔滨工业大学黄梯云奖励基金创新研究奖（唯一特等奖），2019
+
+2. 博士研究生国家奖学金（排名第一），2018
+
+ 
+
+工作经历
+
+
+2023.12 – 至今        中山大学，信息管理学院，副教授
+
+2021.03 – 2023.11  华南理工大学，工商管理学院，博士后

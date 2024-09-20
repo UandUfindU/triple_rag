@@ -1,0 +1,138 @@
+人物简介
+
+
+李岱峰 男 管理学博士 教授
+
+ 
+
+学术专长
+
+
+情报学
+
+ 
+
+研究方向
+
+
+数据挖掘，信息检索，智能交互，商务数据分析，语义标注，用户行为建模
+
+ 
+
+研究经历
+
+
+主持承担完成项目：
+
+2023.12-2026.12 主持国家社会科学基金重大项目子课题. 科研成果社会影响的智能服务平台关键技术研究. 在研
+2023.12-2025.12 主持广东省自然科学基金面上项目. 融合知识库的多轮对话推理关键技术研究. 在研
+2023.12-2026.01 主持企业委托项目：融合知识图谱政策文件解读大语言模型关键技术研究. 在研
+2023.01-2023.12 主持企业委托项目：智能监管系统研究. 结题
+2020.01-2024.12 融合知识图谱和行为经济理论的用户建模及推荐研究. 国家自然科学基金面上项目
+2019.12-2021.12 银行知识图谱构建及其应用研究. 广东省软科学面上项目
+2018.01-2020.12 融合知识图谱的用户长尾需求建模研究. 国家自然科学基金青年项目
+2012.08-2013.07 基于大规模社会网络的情感挖掘及其在行为金融中的应用. 国家博士后基金一等资助（前10%）
+2012.03-2012.12 大规模社会网络环境下的情感挖掘. 百度大规模机器学习计划
+
+主要参与项目：
+2005.10-2009.10基于可复用标准构件的虚拟组织建模方法. 国家自然科学基金项目
+2010.10-2013.10应对国际金融风险的危机-机遇模式研究. 国家自然科学基金项目
+2011.10-2012.12 新一代互联网搜索引擎研究. 国家核高基重大项目
+2011.09-2012.08 社交网络研究在工业界应用. 清华大学国际科技合作项目
+2011.09-2012.09 面向Web的社会网络理论与方法研究. 国家自然科学基金重点项目
+2013.01-2015.12 基于wiki的中英文跨语言本体知识库构建. 国家自然科学基金青年项目
+2011-2014. 海量数据组织与资源共享的方法研究. 国家重点基础研究发展计划
+2013-2015. 在线客户群价值模型及其优化研究. 国家自然科学基金
+
+ 
+
+教育背景
+
+
+2000-2004 西安交通大学 信息工程学院 学士学位；
+2004-2007 西安交通大学 管理学院 硕士学位；
+2007-2010 上海财经大学 信息管理与工程学院 博士学位；
+
+ 
+
+著作论文
+
+
+国际期刊：
+
+1.Daifeng Li*, Xuting Li, Kaixin Lin, Jianbin Liao, Ruo Du, Wei Lu, Andrew D. Madden. A multiple long short-term model for product sales forecasting based on stage future vision with prior knowledge. Information Sciences. 625: 97-124. 2023 (JCR Q1分区，中科院Q1分区，SCI影响因子: 8.5).
+2.Daifeng Li*, Fengyun Gu, Xin Li, Ruo Du, Dingquan Chen, Andrew Madden. Dynamic sales prediction with auto-learning and elastic-adjustment mechanism for inventory optimization, Information Systems. 119. 102259. 2023 (JCR Q1分区，中科院Q2分区，SCI影响因子: 7.9).
+3.Daifeng Li*, Xin Li, Fengyun Gu, Ziyang Pan, Dingquan Chen, Andrew D. Madden: A Universality-Distinction Mechanism-Based Multi-Step Sales Forecasting for Sales Prediction and Inventory Optimization. Systems. 11(6): 311. 2023 (SCI影响因子: 1.9).
+4.Daifeng Li*, Kaixin Lin, Xuting Li, Ruo Du, Wei Lu, Andrew Madden. Improved sales time series predictions using deep neural networks with spatiotemporal dynamic pattern acquisition mechanism. Information Processing & Management. 59(4). 2022 (JCR Q1分区，中科院Q1分区，SCI影响因子: 7.1).
+5.Ziyang Pan, Kangjia Fan, Rongyu Liu, Daifeng Li*. Towards Robust Neural Rankers with Large Language Model: A Contrastive Training Approach. Applied Sciences. 13(18), 10148 (SCI影响因子: 2.838).
+6. ShanShan Zhong, Jinghui Qin, Zhongzhan Huang, Daifeng Li*: CEM: Machine-Human Chatting Handoff via Causal-Enhance Module. EMNLP 2022: 3242-3253 (国际计算机自然语言处理顶级会议).
+7. Xuting Li, Daifeng Li*, Ruo Du, Dingquan Chen, Andrew D. Madden: Double Policy Network for Aspect Sentiment Triplet Extraction (Student Abstract). AAAI 2023: 16256-16257.
+8.Daifeng Li*, Lu Huang, Biyun Ye, Fangbin Wan, Andrew Madden, Xingjian Liang. FSRM-STS: Cross-dataset pedestrian retrieval based on a four-stage retrieval model with Selection–Translation–Selection. FGCS. 2020. 107. 601-619
+9. Qihang Wu, Daifeng Li*. Optimization of hierarchical reinforcement learning relationship extraction model. Information Discovery and Delivery
+10. Daifeng Li*, Andrew Madden. Cascade embedding model for knowledge graph inference and retrieval. Information Process and Manage. 2019. 56(6)
+11. Daifeng Li, Yintian Wang, Andrew Madden*, Ying Ding, Jie Tang, Gordon Guo-Zheng Sun, Ning Zhang, Enguo Zhou. Analyzing stock market trends using social media user moods and social influence. JASIST. 2019. 70(9): 1000-1013 (2019) 
+12. Xiaomin Liang, Daifeng Li*, Min Song, Andrew Madden, Ying Ding, Yi Bu. Predicting biomedical relationships using the knowledge and graph embedding cascade model. PLOS ONE. 2019. 14(6). 
+13. Daifeng Li, Andrew Madden*, Chaochun Liu, Ying Ding, Liwei Qian, Enguo Zhou. Modelling online user behavior for medical knowledge learning. Industrial Management and Data Systems 118(4): 889-911 (2018) 
+14. Li Daifeng, Zhipeng Luo, Ying Ding, Jie Tang, Gordon Guo-zheng Sun, , Xiaowen Dai, John Du, Jingwei Zhang, Shoubin Kong(accepted). User-level Micro-Blogging Recomendation incorporating Social Influence. JASIST
+15. Li Daifeng, Ying Ding, Xin Shuai, Guozheng Sun, Jie Tang, Zhipeng Luo, Jingwei Zhang, Tamy Chambers. Topic-Level Opinion Influence Model (TOIM): An Investigation Using Tencent Microblogging. JASIST.2016
+16. Li Daifeng, Ying Ding, Xin Shuai, Johan Bollen, Jie Tang, Shanshan Chen, Jiayi Zhu, Guilherme Rocha. Adding community and dynamic to topic models. J. Informetrics. 2012 
+17. Li, Daifeng., Ding, Y., Sugimoto, C.R., He, B., Tang, J., Yan, E., Lin, N., Qin, Z., & Dong, T. Modeling topic and community structure in social tagging: the TTR-LDA-Community model. JASIST. 2011.
+18. Nan L., Li, Daifeng., Ding, Y., He, B., Qin, Z., Tang, J., Dong, T., Li, J. The Dynamic Features of Delicious, Flickr and Youtube. JASIST. 2011. 
+19. Cassidy Sugimoto., Li Daifeng., and etc. The shifting sands of disciplinary development: Analyzing North American Library and Information Science (LIS) dissertations using Latent Dirichlet Allocation (LDA). JASIST. 2011 
+20. Finlay, S.C., Sugimoto, C.R., Li Daifeng., & Russell, T.G. (accepted). LIS dissertation titles and abstracts(1930-2009): Where have all the librar* gone . The Library Quarterly. 2011. 
+
+国际会议：
+1. Xiaomin Liang, Daifeng Li*, Andrew Madden. Attributed Network Embedding based on Mutual Information Estimation. CIKM 2020
+2. Enguo Zhou, Daifeng Li*, Andrew Madden, Yongsheng Chen, Ying Ding, Qi Kang, Huanning Su. Modeling Adoption Behavior for Innovation Diffusion. iConference 2019 . Washington DC. US. 2019-03-31至2019-04-03. 339-349.
+3. Yilu Wei, Daifeng Li*, Andrew Madden. A Knowledge Based Two-Stage Cacsade Model for Test-Question/Answer Retrieval. In the 4th International Conference on Big Data Analytics, Data Mining and computational Intelligence. Porto, Portugal. 2019-07-16至2019-07-18.
+4. Li Daifeng, Sun Guozheng. Online Social Networks, Insight User Behavior and Social Influence. Airs 2012 
+5. Li Daifeng, Xin Shuai, Guozheng Sun, Jie Tang, Ying Ding, Zhipeng Luo. Mining Topic-level Opinion Influence in Microblog. CIKM 2012 
+6. Li, Daifeng., He, B., Ding, Y., Tang, J., Sugimoto, C., Qin, Z., Yan, E., & Li, J.(2010)Community-based Topic modeling for Social Tagging. The 19th ACM International Conference on Information and Knowledge Management. CIKM2010
+7. Li, Daifeng., Ding, Y., Qin, Z., Milojevic, S., He, B., Dong, T. & Yan, E.(2010)Dynamic features of Social Tagging vocabulary: Delicious, Flickr and Youtube. ASONAM2010
+8. Y Ding, Y Sun, B Chen, K Borner, L Ding, D Wild, M Wu, D DiFranzo, A Graves, Li Daifeng. et al. Semantic Web Portal: A Platform for Better Browsing and Visualizing Semantic Data. AMT 2010. 
+9. Z Qin, Li Daifeng (2009). The application research of E-Government procurement in china based on business component framework. ICDS 2009. 
+
+国内期刊：
+1. 黄露, 周恩国, 李岱峰*. 融合特定任务信息注意力机制的文本表示学习模型 数据分析与知识发现. 2020.
+2. 舒文琛, 周恩国, 李岱峰*. 基于合著网络社区发现的情报学研究主题演化分析. 情报科学. 2020.
+3.李岱峰，于长锐，覃正，董添犀. 改进的Pearson-Compatibility群决策算法在多属性协同过滤推荐中的应用研究.[1]
+4.李岱峰，覃正. 一种基于资源多属性分类的群组推荐模型. 统计与决策. 2010.08.
+5.李岱峰，覃正. 可重构本体语义建模在动态联盟虚拟价值链中的应用. 郑州大学学报：哲学社会科学版. 2009.1.
+6.覃正，李岱峰. 一种基于构件的政府电子采购询价系统. 科技管理研究. 2008.07.
+7.覃正，王永鑫，刘坤，李岱峰. 基于WWF和模糊聚类的流程构件辨识研究. 科技管理研究. 2008.2.
+8.王永鑫，覃正，李岱峰，王琳. 基于核心词汇评估的中文特征信息对比技术. 情报杂志. 2007.3.
+9.李岱峰，覃正，王永鑫. 基于业务构件的企业信息整合应用研究. 郑州大学学报：哲学社会科学版. 2006.5.
+10.王琳，刘进忙，王永鑫，李岱峰. 基于特征向量的中文文档比较方法. 情报杂志. 2005.11.
+ 
+
+获奖情况
+
+
+获奖记录：
+
+1.2020.11 第二届全国高校开放数据创新研究大赛三等奖(前15强)
+2. 2020.05. 全国高校发现杯互联网创新大赛总决赛二等奖(前8强).
+3. 2020.05. 全国高校发现杯互联网创新大赛总决赛三等奖(前20强).
+4. 2020.05. 全国高校发现杯互联网创新大赛总决赛最佳指导老师奖.
+5. 2019.06. 粤港澳大湾区IT系统应用开发大赛铜奖及最佳报告奖(并列前三).
+6. 2019.05. 全国第二届高校数据驱动创新大赛一等奖(全国前三).
+7. 2018.04. 全国首届高校数据驱动创新大赛二等奖(全国前五).
+8. 2016.10 中山大学百人计划
+9. 2015.12 百度MMS&语音图像&度秘&商业最佳团队奖（项目负责人）
+10. 2015.12 百度SSG技术创新提名奖（项目负责人，前10%团队）
+11. 2015.12 百度MMS季度进攻奖（项目负责人）
+12. 2014.12 百度SSG技术创新提名奖（项目负责人，前10%团队）
+13. 2013.7 清华大学计算机系优秀博士后称号；
+14. 2012.9 上海财经大学优秀博士论文奖；
+15. 2012.5 国家博士后基金一等资助（前10%）；
+16. 2011.7 上海市科技进步一等奖(上海市外汇交易中心合作项目)；
+17. 2009.2 墨西哥坎昆ICDS 2009电子商务国际学术会议最佳论文奖；
+
+工作经历
+
+
+2009-2011 美国印第安纳大学伯明顿分校，信息科学 访学
+2011-2012 腾讯北京分公司，社交网络搜索核高基项目 研究员
+2011-2013 清华大学计算机科学与技术，博士后
+2013-2016 百度在线网络技术有限公司，资深研发工程师、策略数据研究员
+2016-至今 中山大学信息管理学院 副教授

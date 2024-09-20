@@ -1,0 +1,122 @@
+人物简介
+
+
+陈明红，管理学博士，中山大学信息管理学院副教授，硕士生导师。中国科技情报学会健康信息学专业委员会委员，中国科技情报学会信息行为研究专业委员会委员，广东社会科学情报学会会员。主要从事健康信息行为、虚假健康信息识别、科技文献语义分析等方面研究工作，主持研究国家自然科学基金项目、广东省自然科学基金项目、广东省社科规划项目、中国博士后科学基金面上项目、教育部人文社科规划项目、教育部人文社会科学青年项目、广州市哲学社会科学规划项目等多个项目，发表学术论文60余篇，出版专著1部，参与撰写相关研究著作及教材8部。目前为信息管理与信息系统、图档专业本科生讲授《信息检索导论》、《信息检索工具与方法》、《电子政务》、《网络信息获取》等课程，为图书情报专业硕士讲授《信息资源建设》、《电子商务与电子政务中的信息管理》课程。
+
+学术专长
+
+
+情报学、健康信息学、网络信息资源管理
+
+研究方向
+
+
+健康信息行为、虚假健康信息识别、信息有用性、信息趋避行为、智能信息生态
+
+研究经历
+
+
+主持的科研项目：
+[1]国家自然科学基金项目：基于HSM的移动互联网用户信息搜索行为研究
+[2]广东省自然科学基金项目：大数据信息资源云建设与深度挖掘研究
+[3]教育部人文社会科学青年项目：信息生态视角下网络信息资源优化配置研究
+[4]中国博士后科学基金面上项目：信息生态系统演化中的信息资源优化配置研究
+[5]广州市哲学社会科学规划项目：广州市移动图书馆服务质量评价与提升策略研究
+[6]中山大学青年教师培育项目：社会网络视角下的虚拟社区知识共享研究
+[7]广东省教改项目：大数据环境下信息管理与信息系统专业人才创新能力培养研究 中山市专业市场发展“十四五”规划项目
+[8]广东省社科规划项目：基于元认知的社交媒体虚假健康信息趋避行为引导研究
+
+教育背景
+
+
+2008.9—2011.6 武汉大学信息管理学院，管理学博士
+2006.9—2008.6 武汉大学信息管理学院，管理学硕士
+2002.9—2006.6 西南大学计算机与信息科学学院，管理学学士
+2017.9—2018.9 美国北德克萨斯大学，访问学者
+
+著作论文
+
+
+专著：陈明红.网络信息生态系统信息资源优化配置研究.科学技术文献出版社，2019.
+
+论文：
+
+
+	Chen Minghong, Huang Xiumei. To disclose or to protect  Predicting social media users’behavioral intention toward privacy, 2024
+	陈明红,麦洁雯.错失焦虑视角下突发公共卫生事件健康风险信息搜寻行为研究——基于混合方法的研究.情报科学,2023
+	陈明红,黄嘉乐,连晓丽.弹幕视角下健康视频需求主题特征及其对视频播放的影响研究.情报杂志,2023
+	Lu Yonghe,Yuan Meilu, Liu Jiaxin, Chen Minghong（通讯作者）. Research on Semantic Representation and Citation Recommendation of Scientific Papers with Multiple Semantics Fusion.Scientometrics,2023
+	陈明红,李思婷,曾贝欣.老年人网络健康信息替代搜索行为影响因素及关联路径研究——从被替代搜索者视角.信息资源管理学报,2022
+	 陈明红,何玲玲,李瑶瑶.基于实习招聘信息的信管专业人才岗位需求分析.情报探索,2022
+	陈明红,刘嘉璐,高明财,邱韫淇,邵苏晨.近20年国内外信息搜索研究现状及启示——基于SSCI和CSSCI期刊论文的比较.图书馆理论与实践,2022
+	陈明红,黄嘉乐,方世深,黄涵慧.弹幕视频播放量影响因素与组态效应.图书馆论坛,2022
+	陈明红,黄涵慧. 基于HSM的移动搜索行为影响因素及组态效应研究.图书情报工作,2021
+	陈明红,张倩琳,韩静. 信息管理与信息系统专业人才招聘需求分析及培养启示.图书馆学研究,2021
+	陈明红,黄涵慧. 用户视角下微博档案主题识别与情感分析研究.档案与建设,2021
+	陈明红.吴颖儿.李晶.信息回避行为研究进展与理论框架.情报资料工作，2021
+	陈明红.潘子璇.网络信息资源生态化配置影响因素及组态研究，情报科学，2021
+	陈明红. 能力本位教育视角下“信息分析与决策”课程实践教学效果的影响因素分析,科技情报研究，2021（1）
+	陈明红，徐玮婕，张玉子，韦芷晴，甄慧琳，李晶.时空限制与任务复杂度对搜索结果的影响：跨设备实验研究，图书情报知识，2020（4）：8-18
+	陈明红,潘子璇,曾庆彬.政务微信用户持续使用行为及用户契合的调节作用研究.现代情报，2020，40（11）：85-98
+	陈明红，谢晓惠. 网络信息资源生态化配置效率评价研究.情报理论与实践，情报理论与实践，2020，43（10）：81-87
+	李晶，陈志燕，陈明红. 眼动追踪实验法在信息行为领域的应用研究.情报学报，2020，39(1): 90-99
+	Minghong Chen, Xianjun Qi, Xiaoli Lu and Jing Li.Understanding Users’ Searching Behavior Switching from PC to Mobile: From a Dual Perspective of Enablers and Inhibitors. Procedia Computer Science，2019（162）：355-360.
+	Xianjun Qi, Minghong Chen and Xiaoli Lu.User Acceptance Model of Government Microblogging and Its Empirical Study. Procedia Computer Science，2019（162）：940-945
+	曹晓萍，陈明红.基于ELM的微信学术信息搜寻行为影响因素研究.情报探索,2019（8）：43-52.
+	Minghong Chen, Jingye Qu, Yuan Xu, Jiangping Chen.Smart and Connected Health: What Can We Learn from Funded Projects. Data and Information Management, 2018，2（3）：1-12
+	Chen Minghong, Qi Xianjun. Influence of Service Quality on Users’ Satisfaction with Mobile Library Service. ACM/IEEE 2018 Joint Conference on Digital Libraries, Fort Worth,2018
+	Jiangping Chen, Minghong Chen, Jingye Qu,Haihua Chen, Juncheng Ding. Smart and Connected Health Projects: Characteristics and Research Challenges.The 6th International Conference for Smart Health, Wuhan,2018
+	陈明红，温杰尧，曾庆彬，漆贤军．从PC搜索到手机搜索的用户转移行为意向研究，情报科学，2018，36（7）：71-77.
+	陈明红，甄慧琳，韦芷晴，张玉子，徐玮婕．移动视觉搜索行为意向模型及实证研究，图书馆论坛，2018（12）：136-145
+	陈明红，郑洁萍，漆贤军．移动社交媒体用户信息共享持续意愿研究，情报理论与实践，2017，40（4）：37-43
+	陈明红，孙顺，漆贤军．移动社交媒体位置信息分享持续意愿研究——隐私保护视角，图书馆论坛，2017（4）：58-67
+	陈明红，漆贤军，刘莹．移动搜索行为的性别差异研究，图书馆学研究，2016（17）：47-58
+	Chen Minghong, Qi Xianjun. Modeling factors explaining the continuous usage of mobile search: An integrated perspective. Geomatics and Information Science of Wuhan University,2016，41（10）：73-78
+	陈明红，漆贤军，刘莹．移动图书馆持续使用意向及习惯的调节作用，情报科学，2016，34（6）：125-132
+	Chen Minghong, Qi Xianjun. Members' satisfaction and continuance intention: a socio-technical perspective. Industrial Management & Data Systems,2015,115(6):1132-1150. 
+	陈明红，刘莹，漆贤军. 学术虚拟社区持续知识共享意愿研究——启发式-系统式模型的视角,图书馆论坛，2015（11）：83-91
+	陈明红，漆贤军，刘莹.科研社交网络使用行为的影响因素研究.情报理论与实践，2015（10）：73-79
+	陈明红. 能力本位教育视角下信息分析与决策课程实践教学改革研究.现代情报，2015,35（8）：123-125.
+	李晶，漆贤军，陈明红.信息质量感知对信息获取与信息采纳的影响研究.情报科学，2015,33（3）：123-130
+	陈明红. 学术虚拟社区用户持续知识共享的意愿研究,情报资料工作，2015, 36(1): 41-47（人大复印资料全文转载）.
+	陈明红，刘莹，漆贤军. 学术虚拟社区知识共享的用户满意度研究，2015广东社会科学学术年会
+	陈明红. 社会资本视角下的学术虚拟社区知识共享研究,情报理论与实践, 2014，37（9）：101-105.
+	陈明红,漆贤军,陈雯.学术博客用户满意度模型及实证研究,图书馆论坛, 2014，34（10）：76-83.
+	陈明红,漆贤军,李妍慧. 基于TAM与TTF整合模型的移动搜索行为影响因素研究.情报杂志，2014，33(6):179-186
+	陈明红,漆贤军. 学术博客的用户接受模型及实证研究.现代图书情报技术，2013，29 (12): 81-87
+	陈明红,漆贤军.基于结构方程模型的网络信息生态系统信息资源配置研究.情报杂志,2012,31(9):169-174.
+	陈明红,漆贤军.网络信息生态系统中信息资源配置仿真研究,情报杂志, 2012,31(5):176-179.
+	陈明红.基于CAS理论的网络信息生态系统分析.情报科学,2012 ,30(7):1065-1070.
+	陈明红. 网络信息生态系统信息资源动态配置研究.情报理论与实践,2011,34(11): 26-30
+	查先进,陈明红.信息资源质量评估研究.中国图书馆学报，2010,36(2):46-55.
+	陈明红.信息生态系统中资源配置的博弈行为分析.情报理论与实践,2010,33(9):17-22.
+	Zha Xianjin, Chen Minghong.Study on early warning of competitive technical intelligence based on the patent map.Journal of Computers.2010,5(2):274-281.
+	查先进,陈明红.信息资源配置的期权价格模型研究.图书与情报，2009(3):31-35
+	陈明红,查先进.信息资源配置的价格模型研究.第六届信息化与信息资源管理学术研讨会专集
+	陈明红.基于复杂网络的数字信息资源配置研究——以数字图书馆为例.图书情报工作，2010（5）
+	陈明红,查先进.基于CAS的信息资源配置自组织研究.图书与情报,2009(3):36-41.
+	查先进，陈明红.基于DEA的我国网络信息资源配置效率研究.图书情报工作, 2009 (9):16-19.
+	漆贤军,陈明红.基于CAS的虚拟社区动态演化分析.情报理论与实践，2009 (12): 95-98.
+	Zha xianjin, Chen Minghong.E-Commerce Enterprises' IRM Based on Value Chain. 4th International Conference on Wireless Communications, Networking and Mobile Computing, （WinCom 2008）
+	Zha Xianjin, Chen Minghong. Competitive Intelligence Monitoring in the Risk Prevention of SMEs, Journal of Service Science and Management,2009（4）
+	Zha Xianjin, Chen Minghong. Using Competitive Intelligence to Improve the Capabilities of SMB Crisis Pre-warning, Proceeding of 2009 International Forum on Information Technology and Applications,（IFITA 2009）
+	Zha xianjin, Chen Minghong.Competitive intelligence: an effective tool in a supply chain context 2008
+	Chen Minghong, Zha xianjin.Study on Information Resources Allocation Based on Complex Networks. 2009 International Conference on Engineering Management and Service Sciences，（MASS 2009）
+	Zha xianjin, Chen Minghong.Study on the Dynamic Evolution of Virtual Community Based on Complex Adaptive System. 2009 International Conference on Engineering Management and Service Sciences: Information System and Management，(ICSSI2009)
+	查先进,陈明红.基于社会网络分析的知识生态系统研究.信息生态理论与应用学术研讨会论文集,2010
+	查先进,陈明红.供应链复杂适应系统的协同优化研究.中国信息系统研究：新兴技术背景下的机遇与挑战，信息系统协会中国分会第三届学术年会(CNAIS2009)论文集,2009
+
+
+获奖情况
+
+
+[1]2015广东社会科学学术年会优秀论文
+[2]2015年5月获评“2014年中山大学优秀班主任”
+[3]教育部2010年度“博士研究生学术新人奖”
+
+工作经历
+
+
+2016.1至今，中山大学，信息管理学院，副教授
+2013-2016.1，中山大学，资讯管理学院，讲师
+2011—2013，中山大学，资讯管理学院，师资博士后

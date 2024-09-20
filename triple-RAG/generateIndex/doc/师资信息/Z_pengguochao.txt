@@ -1,0 +1,197 @@
+人物简介
+
+
+ 
+
+彭国超，男，中山大学信息管理学院教授、博士生导师、院长助理，中山大学大数据研究院副院长，Journal of Global Information Management期刊副主编、Sage Open期刊编委。原英国谢菲尔德大学信息学院终身制助理教授、信息系统科研组组长、信息系统管理硕士专业负责人。英国谢菲尔德大学信息系统专业博士。研究方向为企业数字化转型、大数据分析、AI大模型、网络舆情监测、数据流通与交易、智慧城市、智慧医疗、用户行为及心理分析。先后主持20多项中国及英国科研项目，累积经费总额越1800万。在学科重要刊物及国际会议发表高质量学术论文160余篇，兼任多个欧美智慧城市及信息系统国际研讨会及专题会议的创办人及主席。具有十八年企业管理及数字化咨询经验，曾与IBM、SAP、GSMA、美国AT&T、马来西亚Fusionex、富士康、南航、广汽、广药、广日、金地集团、碧桂园、汇丰、农行、工行、建行等多所世界500强企业、跨国集团、国内大型企业以及各级省、市、区政府部门进行项目合作并提供战略性咨询培训服务。
+
+ 
+
+研究经历
+
+
+ 
+
+团队建设：
+
+        团队拥有充足的科研经费及海量交通与医疗行业的独家数据，通过深度的产学研合作，在做出原创性科研成果的同时，亦为行业前沿实践问题提供解决方案。欢迎对企业数字化转型、大数据分析、AI大模型、网络舆情监测、数据流通与交易、智慧城市、智慧医疗、用户行为及心理分析等方向感兴趣的博士及研究生通过博士后及博士研究生等形式加入团队。
+
+ 
+
+主持科研项目：
+
+
+	校企联合研究平台，中山大学-中视科技数据智能分析与应用联合研究中心，2024/06-2029/05，1000万，在研，主持。
+	
+	广发证券委托咨询课题，基于证券数据全生命周期的资产价值评估框架构建与实践研究，2023/12-2024/04，15万，在研，主持。
+	
+	
+	深圳市政府专项研究课题，深圳优化人力资源要素推动未来产业加速发展研究，2023/12-2024/04，30万，在研，主持。
+	
+	
+	国家自然科学基金面上项目，智慧城市APP用户使用行为分化机理研究，2020/01-2023/12，49万，结题，主持。
+	
+	
+	广东省自然科学基金自由申请项目，面向珠三角制造企业的工业4.0技术成熟度模型研究及影响因素分析， 2018/05-2021/04，10万，结题，主持。
+	
+	
+	高校基本科研业务费中山大学青年教师重点培育项目，科学计量学视角下智慧城市研究热点、发展趋势及跨学科交叉融合分析，2020/01-2021/12，20万，结题，主持。
+	
+	
+	企业横向委托项目，基于大数据分析的知识产权管理系统的开发与应用，2018/12-2021/09，55万，在研，主持。
+	
+	
+	中山大学百人计划项目，智慧技术在制造业及医疗养老行业的应用：技术方案及应用问题探究，2016/10-2019/10，200万元，已结题，主持。
+	
+	
+	广州市哲学社会科学发展规划智库课题，广州建设智慧社会研究，2018/03-2019/03，10万，已结题，主持。
+	
+	
+	英国自然科学基金EPSRC青年学者项目，Measuring Citizen Engagement in Future Smart Cities （智慧城市民众参与度测评及调查），2014/11-2015/09，15万元，已结题，主持。
+	
+	
+	英国GSMA公司科研合作项目，Smart City Market Sizing and Smart City Indicators Data Mining（智慧城市市场规模及数据分析），2014/03-2015/01，15.5万元，已结题，主持。
+	
+	英国自然科学基金EPSRC知识转化项目，Developing and Validating a Robust Smart City Measurement Index（全球智慧城市评估分析及排名指标）, 2013/10-2014/03，10万元，已结题，主持。
+
+
+教育背景
+
+
+ 
+
+2005/9–2009/7， 英国谢菲尔德大学， 信息系统， 博士
+       2002/7–2005/7， 英国谢菲尔德大学， 信息管理， 学士
+
+ 
+
+著作论文
+
+
+近年发表的部分著作与论文清单
+
+ 
+
+著作：
+
+
+	彭国超、吴大有(2023). 数据交易：数据价值释放的全周期指南. 中国农影音像出版社.
+	彭国超、邢飞、刘彩华 (2022). 工业人工智能创新与应用. 科学出版社.
+	黄萃、彭国超、苏峻 (2017). 智慧治理. 北京：清华大学出版社
+
+
+ 
+
+期刊论文：
+
+
+	彭国超、吴思远 (2023). 智能客服服务情境下用户回避行为机制的研究：基于扎根理论和叙事研究的探索. 情报理论与实践.
+	彭国超、吴思远(2022). 元宇宙：城市智慧治理场景探索的新途径. 图书馆论坛.
+	彭国超、程晓(2022). 基于社会燃烧理论的反转新闻舆情热度生成机理研究. 情报科学.
+	彭国超、刘婕、张冰倩(2022). 我国标准情报服务的分类及发展现状研究. 情报科学.
+	彭国超、孔泳欣、王玉文（2022）. 多维指标融合的主题突变检测研究. 情报学报.
+	Li, S., Martins, J.T., Vasconcelos, A.C. and Peng, G. (2023), ""Knowledge sharing in project work: the dynamic interplay of knowledge domains and skills"", Journal of Knowledge Management, Vol. 27 No. 2, pp. 328-355.  [SSCI Q1, IF=8.689].
+	Zhang, B., Peng, G., Liu, C. et al. (2022). Adaptation behaviour in using one-stop smart governance apps: an exploratory study between digital immigrants and digital natives. Electronic Markets 32, 1971–1991 .  [SSCI Q2, IF=6.017].
+	Xing, F., Peng, G., Wang, J. and Li, D. (2022). Critical Obstacles Affecting Adoption of Industrial Big Data Solutions in Smart Factories: An Empirical Study in China. Journal of Global Information Management.[SSCI Q3, IF=1.213].
+	Peng, G., Chen, S., Chen, X., & Liu, C. (2021). An Investigation to the Industry 4.0 Readiness of Manufacturing Enterprises: The Ongoing Problems of Information Systems Strategic Misalignment. Journal of Global Information Management (JGIM), 29(6), 1-20. [SSCI Q3, IF=1.213].
+	Liu C, Peng G, Kong Y, Li S, Chen S. (2021). Data Quality Affecting Big Data Analytics in Smart Factories: Research Themes, Issues and Methods. Symmetry. 13(8):1440.  [SSCI Q2, IF=2.94].
+	Li S, Peng G, Xing F, Zhang J, Zhang B. (2021). Value co-creation in industrial AI: The interactive role of B2B supplier, customer and technology provider. Industrial Marketing Management. 98:105-114.[SSCI Q1, IF=8.89].
+	彭国超，刘婕（2021）. 我国与ISO信息安全标准对比研究. 情报杂志.
+	Chen, W., Liu, C., Xing, F., Peng, G.C.* and Yang, X. (2021). Establishment of a maturity model to assess the development of industrial AI in smart manufacturing, Journal of Enterprise Information Management, 2021.
+	刘婕，彭国超* (2021). 我国标准情报服务研究的发展及演化路径分析. 情报杂志.
+	Xing, F., Peng, G.C.*, Zhang, B., Li, S. and Liang, X. (2021). Socio-technical barriers affecting large-scale deployment of AI-enabled wearable medical devices among the ageing population in China. Technological Forecasting & Social Change, 166 (2021), Article No. 120609 [SSCI Q1, IF=5.846].
+	Zhang, B., Peng, G.C.*, Xing, F. and Chen, S. (2021). Mobile applications in China’s smart cities: state-of-the-art and lessons learned. Journal of Global Information Management, 29 (6), Article 26 [forthcoming] [SSCI Q3, IF=1.213].
+	Zhang, B., Peng, G.C.*, Xing, F., Liang, X. and Gao, Q. (2021). One-stop smart urban apps and determinants of their continuance usage: an empirical investigation based on CSCM. Journal of Global Information Management, 29 (6), Article 9 [forthcoming] [SSCI Q3, IF=1.213].
+	Peng, G.C.*, Clough, P., Madden, A., Xing, F. and Zhang, B. (2021). Investigating the usage of IoT-based smart parking services in the Borough of Westminster. Journal of Global Information Management, 29 (6), Article 25 [forthcoming] [SSCI Q3, IF=1.213].  
+	孔泳欣,彭国超,李颖（2021）.知识链视角下数字图书馆知识服务能力评价研究. 情报理论与实践, 2021, 44(11):73-79.
+	张冰倩，彭国超*，梁欣婷，吴思远 (2021). 智慧城市App用户适应性信息行为过程研究. 情报理论与实践.
+	彭国超*，梁欣婷，张冰倩 (2021). 网络医疗众筹信息规避行为影响因素研究. 情报资料工作.
+	邢飞，彭国超*，贾怡晨，左斯敏 (2020). 跨学科团队知识整合影响因素研究：以智能制造项目为例. 现代情报, 40(5), pp. 41-50 .
+	邢飞，彭国超*，贾怡晨 (2020). 基于科技型中小企业信息需求的高校图书馆精准化信息服务研究. 图书馆学研究, 17(9).
+	Kamel Boulos, M.N., Peng, G.C. and VoPham, T. (2019). An overview of GeoAI applications in health and healthcare. International Journal of Health Geographics, 18, Article 7 [SSCI Q2, IF=3.239].
+	Li, S., Peng, G.C.* and Xing, F. (2019). Barriers of embedding big data solutions in smart factories: insights from SAP consultants. Industrial Management & Data Systems, 119(9), pp. 1147-1164 [SSCI Q1, IF=3.329].
+	梁甜、彭国超*、邢飞 (2019). 我国智慧城市APP应用现状及问题分析. 图书情报工作,  63(8), pp. 65-73.
+	邢飞、彭国超*、梁甜 (2019). 英国某市老年可穿戴医疗设备应用调研及其借鉴意义.医学信息学, 40 (4), pp. 49-54.
+	邢飞、彭国超*、梁甜 (2019). 基于工业大数据的制造企业变革管理模型研究. 科技管理研究, 16, pp. 230-237.
+	Peng, G.C. and Nunes, J.M.B (2017). Establishing an evidence-based 9D Evaluation framework for ERP post-implementation. Industrial Management & Data Systems, 117 (2), pp. 398-424 [SSCI Q1, IF=3.329].
+	Peng, G.C., Nunes, J.M.B. and Zheng, L. (2017). Impacts of low citizen awareness and usage in smart city services: the case of London’s smart parking system. Information Systems and e-Business Management, 15 (4), pp. 845-876. [SSCI Q3, IF=1.968].
+	Hammond, N., Cheeseman, M., Chantry, A. and Peng, G.C. (2015). Researching surviving cancer and sexuality using visual methods: a reflection on research rationale and negotiating ethical issues.  Families, Relationships and Societies, 4 (3), pp. 483-492 [SSCI Q4, IF=0.754].
+	Mojtahed, R., Nunes, J.M.B., Martins, J.T. and Peng, G.C. (2014). Equipping the constructivist researcher: the combined use of semi-structured interviews and decision making maps. Electronic Journal of Business Research Methods, 12 (2) pp. 87-95 [Scopus indexed].
+	Adil, M., Nunes, J.M.B. and Peng, G.C. (2014). A three tier evaluation mixed method research model aiming to select an adequate MCDA method for public sector procurement. International Journal of Multiple Research Approaches, 8 (2), pp. 176–186.
+	Peng, G.C.* and Gala, C.J. (2014). Cloud ERP: a new dilemma to modern organisations . Journal of Computer Information Systems, 54 (4), pp. 589-599 [SSCI Q3, IF=1.582].
+	Adil, M., Nunes, J.M.B. and Peng, G.C. (2014). Identifying operational requirements to select suitable decision models for a public sector e-procurement decision support system. Journal of Information Systems and Technology Management, 11 (2), pp. 211-228  
+	Mojtahed, R., Nunes, J.M.B. and Peng, G.C. (2013). Probing future banking service opportunities: a study of the intention to adopt mobile banking among young UK graduates. International Journal of Wireless and Mobile Computing, 6 (6), pp. 544-555. [Scopus and EI indexed]
+	Peng, G.C. (2013). Green ICT: a strategy for sustainable development of China’s electronic information industry. China: An International Journal, 11(3), pp. 68-86. [SSCI Q4, Scopus indexed].
+	Adil, M., Nunes, J.M.B. and Peng, G.C. (2013). Selecting e-procurement decision models by evaluating MCDA methods according to the requirements of the Maldivian public sector. International Journal of Small Economies, 4 (1), pp. 9-22.
+	Christofi, M., Nunes, J.M.B., Peng, G.C. and Lin, A. (2013). Towards ERP success in SMEs through business process review prior to implementation. Journal of Systems and Information Technology, 15 (4), pp. 304-323 [Scopus and EI indexed].
+	Dutta, A., Peng, G.C.* and Choudhary, A. (2013). Risks in enterprise cloud computing: the perspective of IT experts. Journal of Computer Information Systems, 53 (4), pp. 39-48. [SSCI Q3, IF=1.582].
+	Chen, H., Nunes, J.M.B., Zhou, L.H. and Peng, G.C. (2011). Expanding the concept of requirements traceability: the role of electronic records management in gathering evidence of crucial communications and negotiations. Aslib Proceedings, 63 (2/3), pp.168-187 [SSCI Q3, IF=1.461].
+	Pan, K., Nunes, J.M.B. and Peng, G.C.* (2011). Risks affecting ERP post-implementation: insights from a large Chinese manufacturing group. Journal of Manufacturing Technology Management, 22 (1), pp.107-130 [SSCI Q2, IF=3.385].
+	Peng, G.C. and Nunes, J.M.B (2010). Barriers to the successful exploitation of ERP systems in Chinese state-owned enterprises. International Journal of Business and Systems Research, 4 (5/6), pp. 596-620 [Scopus indexed].
+	Peng, G.C. and Nunes, J.M.B (2009). Surfacing ERP exploitation risks through a risk ontology”. Industrial Management & Data Systems, 109 (7), pp. 926-942 [SSCI Q1, IF=3.329].
+	Peng, G.C. and Nunes, J.M.B. (2009). Identification and assessment of risks associated with ERP post-implementation in China. Journal of Enterprise Information Management, 22 (5), pp. 587-614 [SSCI Q2, IF=2.659].
+
+
+ 
+
+国际研讨会议论文：
+
+
+	Wu, D., Peng, G.C., Ai, Y., Li, H., Li, S. and Peng, Y. (2023). A Systematic and Innovative Six-in-one Evaluation Framework to Drive the Development of Future Hidden Champions. HCI
+	Liu, C., Peng, G.C., and Kong, S. (2022). Developing a framework of information governance addressing online health information quality, 21st European Conference on Research Methodology for Business and Management Studies, June 2022.
+	Kong, Y., Wang, Y., Peng, G.C. and Zhang, B. (2021). Spatial-temporal Distribution and Cross Impact of “Big Health” Policies, News and Patents.  In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2021 (Held as Part of HCI International 2021). Lecture Notes in Computer Science. Springer, Cham. [ISI-CPCI and EI indexed].
+	Liu, C. Zhang, B. and Peng, G.C. (2021). A systematic review of information quality of artificial intelligence based conversational agents in healthcare.  In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2021 (Held as Part of HCI International 2021). Lecture Notes in Computer Science. Springer, Cham. [ISI-CPCI and EI indexed].
+	Liang, X., Kong, Y. and Peng, G.C. (2021). Online medical platform oriented identification of user needs related to Alzheimer's disease and ontology construction.  In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2021 (Held as Part of HCI International 2021). Lecture Notes in Computer Science. Springer, Cham. [ISI-CPCI and EI indexed].
+	Wu, S., Wang, Y. and Peng, G.C. (2021). Research on cross-channel transfer behavior of users from smart government APP to government service platform under PPM architecture. In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2021 (Held as Part of HCI International 2021). Lecture Notes in Computer Science. Springer, Cham. [ISI-CPCI and EI indexed].
+	Zhang, B., Liu, C., Kong, Y., Wang, Y. and Peng, G.C. (2021). Users adaptation and infusion of smart city app. In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2021 (Held as Part of HCI International 2021). Lecture Notes in Computer Science. Springer, Cham. [ISI-CPCI and EI indexed].
+	Xing, F., Peng, G.C., Zuo, S., Tang, J. and Li, S. (2020). Driving innovation with the application of industrial AI in the R&D domain. In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2020 (Held as Part of HCI International 2020). Lecture Notes in Computer Science, vol 12203. Springer, Cham. [ISI-CPCI and EI indexed]. 
+	Zhang, B., Peng, G.C., Liang, X., Gao, Q. and Xing, F. (2020). Factors influencing the acceptance and usage of smart city services: a systematic review and meta-analysis. In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2020 (Held as Part of HCI International 2020). Lecture Notes in Computer Science, vol 12203. Springer, Cham. [ISI-CPCI and EI indexed].
+	Lin, S., Liang, X., Zhang, B., Xing, F. and Peng, G.C. (2020). Investigating users attitudes and perceptions towards the usage of smart city apps. In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2020 (Held as Part of HCI International 2020). Lecture Notes in Computer Science, vol 12203. Springer, Cham. [ISI-CPCI and EI indexed].
+	Zhang, N., Nunes, M.B., Peng, G.C. and Wang, L. (2020). Developing a framework for smart city planning in China: an action research approach. In Proceedings of the 24th Pacific Asia Conference on Information Systems (PACIS). Dubai, UAE, July 2020. [Scopus indexed].
+	Xing, F, Peng, G.C., Liang, T., Zuo, S. and Li, S. (2019). Managing changes initiated by industrial big data technologies: a technochange management model. In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2019 (Held as Part of HCI International 2019). Lecture Notes in Computer Science, vol 11587. Springer, Cham. [ISI-CPCI and EI indexed].
+	Liang, T., Peng, G.C., Xing, F., Lin, S. and Jia, Y. (2019). From smart city to smart society: China’s journey towards essential urban-rural transformation. In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2019 (Held as Part of HCI International 2019). Lecture Notes in Computer Science, vol 11587. Springer, Cham. [ISI-CPCI and EI indexed].
+	Zuo, S., Peng, G.C., Zhang, Y., Xing, F., Qin, L. and Tang, J. (2019). Designing a cyber physical system prototype for the leaching process in producing high-purity materials. In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2019 (Held as Part of HCI International 2019). Lecture Notes in Computer Science, vol 11587. Springer, Cham. [ISI-CPCI and EI indexed].
+	Li, S. Xing, F. Peng, G.C. and Liang, T. (2019). Enablers for embedding big data solutions in smart factories: an empirical investigation. In Proceedings of the 23rd Pacific Asia Conference on Information Systems (PACIS). Xian, China, 8-12 July 2019.
+	Jiang J., Peng G.C., Xing F. (2018.) Socio-Technical Challenges of Smart Fleet Equipment Management Systems in the Maritime Industry. In: Streitz N., Konomi S. (eds) Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2018 (Held as Part of HCI International 2018). Lecture Notes in Computer Science, vol 10921. Springer, Cham. [ISI-CPCI and EI indexed].
+	Xing F., Peng G.C., Liang T., Jiang J. (2018). Challenges for Deploying IoT Wearable Medical Devices Among the Ageing Population. In: Streitz N., Konomi S. (eds). Distributed, Ambient and Pervasive Interactions: Understanding Humans. DAPI 2018 (Held as Part of HCI International 2018). Lecture Notes in Computer Science, vol 10921. Springer, Cham. [ISI-CPCI and EI indexed].
+	Li, S., Peng, G.C. and Martins, J. (2017). “A framework of critical knowledge sharing skills (CKSS) for project managers”. In Proceedings of iConference 2017, Wuhan, China, March 2017.
+	Peng, G.C., Garcia, L.M.S., Nunes, J.M.B. and Zhang, N. (2016). “Identifying user requirements of wearable healthcare technologies for Chinese ageing population”. In Proceedings of the second IEEE International Smart Cities Conference (IEEE ISC2), Trento, Italy, 12-15 September, 2016.
+	An, X., Nunes, J.M.B, Chen, H. and Peng, G.C. (2016). “Recordkeeping in big data environments: opportunities, challenges and threats”. In Proceedings of the 2016 International Council on Archives (ICA) Congress, Seoul, Korea, 5-10 September 2016.
+	Li, S., Peng, G.C. and Martins, J. (2016). “Applying grounded theory in complex case study context: issues and lessons learnt for knowledge management research”. In Proceedings of the 15th European Conference on Research Methodology (ECRM) for Business and Management Studies, Kingston, UK, 9-10 June 2016. [ISI indexed; Ranked C in ERA Conference List 2010]
+	Peng, G.C. and Zheng, L. (2016). “Increasing response rates for surveys conducted in busy cities: lessons learned from a smart city study”. In Proceedings of the 15th European Conference on Research Methodology (ECRM) for Business and Management Studies, Kingston, UK, 9-10 June 2016. [ISI indexed; Ranked C in ERA Conference List 2010]
+	Aljohani, A., Peng, G.C. and Nunes, J.M.B. (2015). “Critical factors leading to ERP replacement in Higher Education Institutions in Saudi Arabia: preliminary results”. In Proceedings of iConference 2015, California, USA, March 2015.
+	Mojtahed, R., Nunes, J.M.B., Martins, J.T. and Peng, G.C. (2014). “Fostering constructivism in inductive data collection: combining interviews and decision-making map”. In Proceedings of the 13th European Conference on Research Methodology (ECRM) for Business and Management Studies, London, UK, June 2014. [ISI indexed; Ranked C in ERA Conference List 2010] Selected as one of the Best Papers of ECRM in 2014
+	Adil, M., Peng, G.C. and Nunes, J.M.B. (2014). “Selecting suitable E-procurement decision models for the Maldivian public sector by evaluating MCDA methods”. In Proceedings of the 2014 World Conference on Information Systems and Technologies, Madeira Island, Portugal, 15-18 Apr 2014. [ISI indexed]
+	Peng, G.C., Dutta, A. and Choudhary, A. (2013). “Exploring critical risks associated with enterprise cloud computing”. In Proceedings of the 4th International Conference on Cloud Computing, Wuhan, 17-19 Oct 2013.
+	Adil, M., Nunes, J.M.B. and Peng, G.C. (2013). “Selecting public e-procurement MCDA methods using a three-tier evaluation mix method (TTMM) research model”. In Proceedings of the 12th European Conference on Research Methodology (ECRM) for Business and Management Studies, Portugal, July 2013. [ISI indexed; Ranked C in ERA Conference List 2010]
+
+
+ 
+
+获奖情况
+
+ 
+
+ 主持的“Measuring Citizen Engagement in Future Smart Cities”项目于2015年12月获英国停车协会颁发欧内斯特 戴维斯行业知识优化奖（Ernest Davies Award for Advancing Parking Knowledge）二等奖.
+    于2012年获得由英国谢菲尔德大学颁发的年度学术导师奖。
+
+ 
+
+工作经历
+
+
+ 
+
+2019.09至今 中山大学信息管理学院院长助理
+
+2017.03至今 中山大学资讯管理学院国际合作部主任
+
+2017.02至今 英国谢菲尔德大学信息学院名誉研究员
+
+2016.10至今 中山大学信息管理学院教授
+
+2016.04-2017.02 英国谢菲尔德大学信息学院信息系统科研组组长
+
+2012.09-2017.02 英国谢菲尔德大学信息学院终身制助理教授
+
+2009.09-2012.08 英国谢菲尔德大学信息学院助理教授

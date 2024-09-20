@@ -1,0 +1,163 @@
+人物简介
+
+
+徐健，男，情报学博士，现任中山大学信息管理学院教授，博士生导师，副院长。兼任中国索引学会理事、中国索引学会青年委员会委员、中国中文信息学会情感计算专业委员会委员、中国科学技术情报学会第九届信息技术专业委员会委员、《数据分析与知识发现》期刊编委。近年来先后为信息管理与信息系统、档案学本科生教授《网络开发技术》、《数据结构》、《数字档案馆》等课程。主要研究方向为知识发现、科学计量、网络用户情感分析。主持或参与多项国家、省部级科研项目工作。已出版学术专著1部，教材1部，在《Scientific Data》《JASIST》、《JOI》、《情报学报》、《数据分析与知识发现》等专业期刊发表学术论文90余篇。
+
+ 
+
+学术专长
+
+
+情报学
+
+ 
+
+研究方向
+
+
+近年来专注于基于数据驱动的知识发现、科学计量、跨学科演化分析、网络用户情感分析等方面的研究。
+
+ 
+
+研究经历
+
+
+
+	国家自科面上项目. 基于知识共通性特征的跨学科知识发现. 2024年1月至2027年12月. 项目主持人.
+	广东省自然科学基金项目. 情感分歧度量化模型及其应用研究. 2018年05月01日至2021年04月30日. 项目主持人.
+	国家社科面上项目. 基于知识发现的科研人员老龄化现象、演化规律及成因分析. 2018年7月至2021年7月. 项目主持人.
+	中山大学研究生优质示范课程建设项目. 《知识描述与语义网》优质示范课程建设. 2018年1月至2018年12月. 项目主持人.
+	国家社科基金重大项目. 近代广东海关档案文献整理与数据库建设研究. 2017年11月15日至2022年12月. 项目参与者.
+	2019年度广东省基础与应用基础研究基金重点项目. 面向东盟国家的多语言信息处理关键技术研究. 2019B1515120085. 经费：100万. 项目起止时间：2020-01-01 至 2022-12-31. 项目参与者.
+	广东省科技厅科技计划项目. 基于内容的科技文献分析服务平台. 2016年9月至2018年12月. 项目参与者.
+	广东省科技厅公益研究项目-广东省科技厅科技计划项目. 面向主题的中文语料库构建方法与技术. 2015年6月至2018年6月. 项目参与者.
+	市级科技项目. 基于3G/4G智能终端的移动应急协同指挥平台. 2015年8月至2015年12月. 项目参与者.
+	广东省科技厅科技计划项目. 大数据背景下新型电子政务系统的研发与应用. 2015年7月至2017年12月. 项目参与者.
+	国家自然科学基金项目. 面向文本分类的多学科协同建模理论与实验研究. 2013年8月至2017年12月. 项目参与者.
+	2015年6月至2018年6月.广东省科技厅公益研究项目-广东省科技厅科技计划项目  项目类别与名称：2015年度广东省公益研究与能力建设专项项目“面向主题的中文语料库构建方法与技术”；项目批准号：2015A030401037；经费: 30万；主持人为路永和. 项目参与者.
+
+
+ 
+
+教育背景
+
+
+1.1996年9月至2000年7月，西安交通大学管理学院信息管理与信息系统专业，本科，获管理学学士学位。
+
+2.2000年9月至2003年7月，中山大学信息管理系图书馆学专业，研究生，获管理学硕士学位。
+
+3.2007年9月至2010年6月，中国科学院文献情报中心情报学专业，博士研究生，获管理学博士学位。
+
+4.2014年1月至2015年1月，美国印第安纳大学访问学者。
+
+ 
+
+著作论文
+
+
+一、学术论文
+
+
+	张彤阳,王楚涵,俞超，徐健（通讯作者）. 通往AI时代的科研文献数据集:特征规律与发展方向[J/OL].图书情报知识:1-11[2023-08-26].  
+	杜丰瑞, 岳铁骐, 张彤阳, 徐健（通讯作者）. 基于认知升级理论的高校图书馆智慧推荐服务研究. 图书情报工作, 2023, 67(12). P39-49
+	杜丰瑞,张彤阳,徐健（通讯作者）.基于乔哈里视窗的智慧图书馆服务模型探析[J/OL].图书馆建设:1-14[2023-06-06].
+	Zhang T, Sun R, Fensel J, et al. Understanding the domain development through a word status observation model[J]. Journal of Informetrics, 2023, 17(2): 101395.
+	张钰桐，徐健.数字人文视域下的家谱档案记忆资源重构:价值、逻辑及框架. 档案学研究,2022,5.
+	Sun, R, Zhang, T., Fensel, J., Yu, A.,Bu, Y.,&Xu, J.(2022, September 7th).Disciplinary Boundary for Knowledge Diffusion: A Case Study in Psychology and Computer Science. Proceedings of the 26th International Conference on Science, Technology and Innovation Indicators (STI 2022), Granada, Spain.
+	Zhang, Tongyang, Sun, Ran, Fensel, Julia, Yu, Andrew, Bu, Yi, & Xu, Jian（通讯作者）. (2022, September 7th). Understanding Function Shift of Representative Words based on the Analysis of ""Attention"" in Psychology. Proceedings of the 26th International Conference on Science, Technology and Innovation Indicators (STI 2022), Granada, Spain.
+	Chuhan Wang, Tongyang Zhang, Yi Bu, and Jian Xu.（通讯作者） (2021, September 11th). Analyzing Research Diversity of Scholars Based on Multi-dimensional Calculation of Entities. In 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents 2022 (EEKE 2022) co-located with the JCDL 2022, Cologne, Germany and Online, 2022(3210): 69-73.
+	Zhang T, Tan F, Yu C, Wu, J., & Xu, J. （通讯作者）Understanding relationship between topic selection and academic performance of scientific teams based on entity popularity trend[J]. Aslib Journal of Information Management, 2022 (ahead-of-print).
+	华玮,吴思洋,俞超,吴婕洵,徐健.面向网络舆情事件的多层次情感分歧度分析方法[J/OL].数据分析与知识发现:1-23[2023-06-06].
+	MeijunLiu, NingZhang, XiaoHu, AjayJaiswal, JianXu, HongChen, YingDing, YiBu. Further divided gender gaps in research productivity and collaboration during the COVID-19 pandemic: Evidence from coronavirus-related literature. Journal of Informetrics, 2022,16(2).
+	Yu, Q., Wang, Q., Zhang, Y., Jian Xu. Reply to issues about entitymetrics and paper-entity citation network. Scientometrics 127, 2127–2129 (2022).
+	Tongyang Zhang, Jiexun Wu, Zhiwei Ye, Ying Ding, and Jian Xu（通讯作者）. Cross-Regional Analysis of the Aging Phenomenon of Biomedical Scholars. iConference 2022, LNCS 13192, pp. 244–254.
+	Meijun Liu, Yi Bu, Chongyan Chen, Jian Xu, Daifeng Li, Yan Leng, Richard Barry Freeman, Eric Meyer, Wonjin Yoon, Mujeen Sung, Minbyul Jeong, Jinhyuk Lee, Jaewoo Kang, Chao Min, Min Song, Yujia Zhai, Ying Ding. Pandemics are catalysts of scientific novelty: Evidence from COVID-19. JASIST, 2021-12-25 online.
+	岳铁骐,傅友斐,徐健（通讯作者）.基于招聘广告的岗位人才需求分析框架构建与实证研究[J].数据分析与知识发现,2022,6(Z1):151-166.
+	Tan, F., Zhang, T., & Xu, J.（通讯作者） (2021, November 10th). Differential Analysis on Performance of Scientific Collaborations with the Evolution of Entity Popularity. In Proceedings of the 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE 2021) co-located with JCDL 2021, Virtual Event, 2021(3004):71-73.
+	Fang Tan, Tongyang Zhang, Siting Yang, Xiaoyan Wu, Jian Xu（通讯作者）. Discovering Booming Bio-entities and its Relation to the Funds. Data and Information Management, 2021, 5(3): 312-328.
+	谭芳,杨阳,卓伊玲,徐健,肖卓（通讯作者）.网络隐私争议事件中用户隐私关注及情感对比研究.图书情报工作,2021,65(2):87-97.
+	Qi Yu, Qi Wang, Yafei Zhang, Chongyan Chen, Hyeyoung Ryu, Namu Park, Jae Eun Baek, Keyuan Li, Yifei Wu, Daifeng Li, Jian Xu, Meijun Liu, Jeremy J. Yang, Chenwei Zhang, Chao Lu, Peng Zhang, Xin Li, Baitong Chen, Islam Akef Ebeid, Julia Fensel, Chao Min, Yujia Zhai, Min Song, Ying Ding, Yi Bu. Analyzing knowledge entities about COVID 19 using entitymetrics. Scientometrics, published online: 12 March 2021.
+	赵文宇,徐健（通讯作者）.不同网络平台用户情感表达特征对比分析.情报理论与实践,2020,43(01):163-168.
+	梁镇涛,巴志超,徐健（通讯作者）.基于引文的跨学科领域发展路径分析—以眼动追踪领域为例.图书情报工作,2019，63(23):65-78.
+	徐健,吴思洋.网络用户评论的情感分歧度量化算法研究[J].情报学报, 2020,39(4):427-435.
+	Xu Jian, Kim Sunkyu, Song Min, Jeong Minbyul, Kim Donghyeon, Kang Jaewoo, Rousseau Justin F., Li Xin, Xu Weijia, Torvik Vetle I., Bu Yi, Chen Chongyan, Ebeid Islam akef, Li Daifeng & Ding Ying. Building a PubMed knowledge graph. Scientific Data 7, 205 (2020).
+	Tan, F., Yang, S. T., Wu, X. Y., Xu, J（通讯作者）.(2020). Exploring the relation between biomedical entities and government funding (short paper). EEKE 2020, August 1, 2020, Wuhan, China.
+	温萍梅，叶志炜，丁文健，刘颖（通讯作者）,徐健.命名实体消歧研究进展综述. 数据分析与知识发现, 2020, 4(09): 15-25.
+	Xu, J., Ding, Y., Bu, Y., Deng, S., Yu, C., Zou, Y., & Madden, A. (2019). Interdisciplinary scholarly communication: an exploratory study for the field of joint attention.Scientometrics, pulished online: 22 April 2019.119(3)：1597-1619.
+	文秀贤, 徐健（通讯作者）.基于用户评论的商品特征提取及特征价格研究. 数据分析与知识发现,2019(7):42-51.
+	卢伟聪，徐健（通讯作者）. 基于三分网络的网络用户评论情感分析. 数据分析与知识发现, 2019,3(8):10-20.
+	王敏, 徐健（通讯作者）. 视频弹幕与字幕的情感分析与比较研究[J]. 图书情报知识, 2019,0(5):109-119.
+	梁晓敏，徐健（通讯作者）.舆情事件中评论对象的情感分析及其关系网络研究. 情报科学,2018,36(2):37-42.
+	范炜昊，徐健（通讯作者）.基于网络用户评论情感计算的用户痛点分析. 情报理论与实践,2018,41(1):94-99.
+	首欢容，邓淑卿，徐健(通讯作者).基于情感分析的网络谣言识别方法 [J]. 数据分析与知识发现.2017,(7):44-51.
+	卢伟聪，徐健(通讯作者).基于二分网络的网络用户评论情感分析[J]. 情报理论与实践,2018,41(2):121-126.
+	张红丽，刘济郢，杨斯楠，徐健(通讯作者).基于网络用户评论的评分预测模型研究[J].数据分析与知识发现.2017,(8):48-58.
+	陶盈春，张红丽，徐健（通讯作者）.异常值探测在大数据分析中的应用研究.情报科学，2018,36(3):75-80.
+	邓淑卿,李玩伟,徐健（通讯作者）.基于句法依赖规则和词性特征的情感词识别研究.情报理论与实践,2018,41(5):137-142.
+	杨斯楠，徐健（通讯作者）,叶萍萍.网络评论情感可视化技术方法及工具研究.数据分析与知识发现,2018,(5):77-87.
+	Xu, J., Bu, Y., Ding, Y., Yang, S., Zhang, H., Yu, C., & Sun, L. (2018). Understanding the formation of interdisciplinary research from the perspective of keyword evolution: a case study on joint attention. Scientometrics, published online:31 August 2018.
+	Bu Y, Murray D S, Xu J, et al. Analyzing scientific collaboration with “giants” based on the milestones of career[J]. Proceedings of the Association for Information Science and Technology, 2018, 55(1): 29-38.
+	Bu Yi, Ding Ying, Xu Jian(通讯作者), Liang Xingkun, Gao Gege, Zhao Yiming. Understanding Success Through the Diversity of Collaborators and the Milestone of Career [J]. Journal of the Association for Information Science & Technology, 2018.
+	Chenwei Zhang, Yi Bu, Ying Ding, Jian Xu. Understanding Scientific Collaboration: Homophily, Transitivity, and Preferential Attachment [J]. Journal of the Association for Information Science & Technology, 2018, 69(1): 72–86.
+	程翠琼,徐健（通讯作者）.面向网络游记时间特征的情感分析模型.数据分析与知识发现, 2017(2):87-95.
+	朱琳琳,徐健（通讯作者）.网络评论情感分析关键技术及应用研究.情报理论与实践,2017(1):121-126,131.
+	Xu,J.,Ding,Y.(2017).Understanding transdisciplinary scholarly communication in the field of joint attention (poster). iConference 2017, March 22-March 25, 2017, Wuhan, China.One of five finalists for the 2017 Best Poster Award.
+	Tehmina Amjad, Ying Ding, Jian Xu, Chenwei Zhang, Ali Daud, Jie Tang, Min Song. Standing on the shoulders of giants [J]. Journal of Informetrics, 2017,11(1):307-323.
+	Bu Yi, Ding Ying, Xu Jian(通讯作者), Liang Xingkun, Gao Gege, Zhao Yiming. Understanding Success Through the Diversity of Collaborators and the Milestone of Career [J]. Journal of the Association for Information Science & Technology, 2018, 69(1): 87–97.
+	Chenwei Zhang, Yi Bu, Ying Ding, Jian Xu. Understanding Scientific Collaboration: Homophily, Transitivity, and Preferential Attachment [J]. Journal of the Association for Information Science & Technology, 2018, 69(1): 72–86.
+	邓淑卿，徐健（通讯作者）.我国情报学研究主题内容分析.情报科学, 2017(11):83-88.
+	Dong X, Xu J, Ding Y, et al. Understanding the correlations between social attention and topic trends of scientific publications[J]. Journal of Data and Information Science, 2016.Yi Bu, Ying Ding, JianXu. Poster-Understanding Success through the Milestone of Scientific Career. The 3rd Satellite on Quantifying Success 2016 May 31st, Seoul.
+	郑飏飏，徐健（通讯作者），肖卓.情感分析及可视化方法在网络视频弹幕数据分析中的应用. 现代图书情报技术, 2015(11):82-90.
+	彭浩，徐健（通讯作者），肖卓.基于比较句的网络用户评论情感分析.现代图书情报技术, 2015(12):48-56.
+	Xu J, Ding Y, Malic V. Author Credit for Transdisciplinary Collaboration [J]. PLoS ONE, 2015, 10(9): e0137968.
+	Xu,J., Ding,Y., Chen, C., & Yan, E. (2015).Hypothesis generation for joint attention analysis on autism(poster).International Conference on Scientometrics & Informetrics (ISSI 2015), June 29-July 4, 2015, Istanbul, Turkey.
+	Amjad Tehmina, Ding Ying, Daud Ali, Xu Jian, Malic Vincent. Topic-based heterogeneous rank. Scientometrics, 2015, 104(1): 313-334.
+	Xu, J., Ding, Y., Song, M., & Chambers, T. Author credit-assignment schemas: A comparison and analysis [J]. Journal of the Association for Information Science & Technology, 2016, 67(8): 1973-1989. 
+
+
+ 
+
+二、著作
+
+
+	徐健. 术语相似度计算方法研究 [M]. 广州: 中山大学出版社，2012. 33万字. ISBN：978-7-306-04307-8  
+	徐健. 数字档案馆与信息技术（教材）.广州：中山大学出版社，2021.9. 34.3万字. ISBN：978-7-306-07123-1
+
+
+ 
+
+近年获奖情况
+
+
+
+	2023年2月：指导学生申请获得国家级大学生创新创业项目“网络用户评论表达真实性和代表性分析”资助。
+	2022年2月：指导学生申请获得校级大学生创新创业项目“中小企业技术攻坚需求与高校智力资源匹配问题研究”资助。
+	2021年3月：所指导的学生作品入围首届广州白云数据创新应用大赛。
+	2021年3月：指导学生申请获得国家级大学生创新创业项目“提要式联合目录研究”资助。
+	2021年6月：曹树金、韦景竹、黄晓斌、陈定权、徐健等. 中山大学第十届教学成果奖.获奖成果：“三二一”定位信管专业，“三赋能”育成创新人才.二等奖.
+	2021年9月29日：张彤阳、王楚涵、俞超、徐健（通讯作者）.所撰写论文《面向科学计量研究的数据集特征分析》在“第十一届（2021年）全国情报学博士生学术论坛”中荣获“三等奖”。吉林大学管理学院
+	2021年10月29日：岳铁骐、傅友斐、徐健（通讯作者）.所撰写论文《基于招聘广告的岗位人才需求分析框架构建与实证研究》在“第三届“数据分析与知识发现”学术研讨会中荣获“优秀论文奖”。
+	2020年3月：指导学生申请获得国家级大学生创新创业项目“数字化家族信息共享平台设计”资助。
+	2019年6月，获得JASIST颁发的2017-2018年度被阅读量前20的文章作者荣誉。
+	2018年3月22日，范炜昊,杨斯楠,程雪涓,梁镇涛.指导教师：徐健.基于知识发现的跨学科领域演化分析—以Eye Tracking领域为例.首届全国高校数据驱动创新研究大赛,研究生组优秀奖.主办单位：北京大学图北京大学信息管南海大数据应用研究院。
+	2018年3月22日，邓淑卿.指导教师：徐健.跨学科领域主题演化分析.首届全国高校数据驱动创新研究大赛,研究生组优秀奖.主办单位：北京大学图北京大学信息管南海大数据应用研究院。
+	2018年10月，指导本科生团队获得：全国大学生数学建模竞赛广东省分赛区本科组二等奖，颁发单位为：广东省教中国工业与应用数学学会。
+	2017年iConference国际会议，最佳Poster提名。《Understanding transdisciplinary scholarly communication in the field of joint attention》
+
+
+ 
+
+工作经历
+
+
+1、2003年7月至2005年12月在中山大学信息管理系任助教。
+
+2、2004年11月至2005年1月在西藏民族学院民族学系援藏支教。
+
+3、2005年12月至2012年12月在中山大学资讯管理系任讲师。
+
+4、2013年1月至2019年12月在中山大学资讯管理学院任副教授。
+
+5、2014年1月至2015年1月美国印第安纳大学访问学者。
+
+6、2020年1月至今在中山大学信息管理学院任教授

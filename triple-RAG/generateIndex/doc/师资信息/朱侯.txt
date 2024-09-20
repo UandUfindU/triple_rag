@@ -1,0 +1,101 @@
+人物简介
+
+
+管理科学与工程专业博士，现任中山大学信息管理学院副教授，硕士生导师。
+
+学术专长
+
+
+信息分析与决策、管理系统计算与仿真
+
+研究方向
+
+
+网络信息管理、人机交互与信息行为、管理系统模拟等
+
+研究经历
+
+
+2019,1-2021,12，国家自然科学基金青年项目“基于计算实验的社会化媒体隐私多源互动泄露机理研究”(71801229)，主持
+
+2018,7-2021,7，教育部人文社会科学研究青年项目“社会化媒体用户-平台互动均衡下隐私规制机理研究”（18YJC630272），主持
+
+2018,1-2020,12，高校基本科研业务费中山大学青年教师培育项目1项，主持
+
+2015,12-2017,12，中山大学人文社会科学青年教师桐山基金项目1项，主持
+
+2014,12-2015,12，中山大学青年教师起步计划项目1项，主持
+
+教育背景
+
+
+2003年9月－2010年6月 华中师范大学信息管理与信息系统专业 学士、硕士 
+2010年9月—2014年6月 华中科技大学管理科学与工程专业 博士
+
+著作论文
+
+
+[1]胡斌, 朱侯, 赵旭. 员工心理活动的数学与模拟模型[M]北京：清华大学出版社, 2014
+
+[2]Hou Zhu, Bin Hu*. Impact of Information on Public Opinion Reversal---An Agent Based Model[J]. Physica A: Statistical Mechanics and its Applications, 2018, 512: 578-587
+
+[3]Hou Zhu*, Bin Hu. Agent based simulation on the process of human flesh search---from perspective of knowledge and emotion[J]. Physica A: Statistical Mechanics and its Applications, 2017, 469: 71-80.
+
+[4]Hou Zhu, Bin Hu*, Jiang Wu, Xiaolin Hu. Adaptation of Cultural Norms after Merger and Acquisition Based on Heterogeneous Agent-Based Relative-Agreement Model[J]. Simulation: Transactions of the Society for Modeling and Simulation International,2013,89(12): 1523-1537
+
+[5]Jiang Wu, Hou Zhu, Menglin Yin, Xin Luo. A Review for the Validation of Social Simulation on Artificial Social Organization[J].International Journal of Agent Technologies and Systems. 2012, 4(2):22-40
+
+[6]Dabin Zhang, Hou Zhu, Sen Peng, Wensheng Zhang. Pre-warning Rules Mining of Business Cycle Based on Neural-Fuzzy Control[J]. AISS: Advances in Information Sciences and Service Sciences, 2011,3(3): 235-242
+
+[7]朱侯, 胡斌. 基于拖延心理的知识型员工-信息系统互动模拟[J]. 系统工程理论与实践, 2014,34(7): 1868-1874
+
+[8]朱侯，张明鑫，路永和. 社交媒体用户隐私政策阅读意愿实证研究[J].情报学报, 2018,37(4):362-371. 
+
+[9]朱侯, 胡斌. 信息与情绪驱动的舆论演化的QSIM-ABS模拟[J]情报学报, 2016, 35(3):310-316
+
+[10]朱侯,胡斌. 基于依从心理的组织规范稳定性及其演化模拟研究[J].系统管理学报,2017,26(6):1110-1119 
+
+[11]吴江*, 贺超城, 朱侯. 集成复杂网络与多智能体仿真的人肉搜索效率研究[J].情报学报,2018,37(1):68-75
+
+[12]邢绍艳, 朱侯*. 信息变异下的谣言传播及其漂移机制研究[J]. 情报杂志，2018,37(10):140-146
+
+[13]朱侯. 线上-线下并行交互模式下舆论形成机制的研究[J]情报科学，2016,34(8):19-24
+
+[14]朱侯, 蒋彩莹, 王可. 社会化媒体公众平台可信度体系构建[J].情报理论与实践, 2016, 39(11): 111-115（人大复印资料全文转载）
+
+[15]朱侯. 社交媒体用户隐私关注的心理机制研究[J].图书情报知识,2016,(2):75-82.
+
+[16]李海丹,洪紫怡,朱侯*. 隐私计算与公平理论视角下用户隐私披露行为机制研究[J].图书情报知识, 2016,(6):114-124.
+
+[17]朱侯. 基于信任与个体权威的社会网络-舆论的协同演化研究[J].现代图书情报技术，2015, 31(10): 50-57
+
+[18]朱侯,王可,严芷君,吴江. 基于隐私计算理论的SNS用户隐私悖论现象研究[J].情报杂志,2017,36(2):134-140
+
+[19]朱侯, 万芳彬, 张丽. 考虑电子口碑累积效果的手机APP BASS扩散过程的研究[J]现代情报，2018, 38(1):108-114.
+
+[20]张丽, 朱侯*, 万芳彬, 叶碧云, 赵琴琴. 考虑信息与组织氛围影响的网络舆论反转模拟[J]情报科学, 2018,36(5):57-63
+
+[21]张大斌, 朱侯*, 李威. 一种基于遗传算法的灰色模型用于铁路客运量预测[J].统计与决策，2009，(24)：24-26
+
+[22]Dabin Zhang, Hou Zhu*. A Clustering Methodology for Industry Categorization Using Business Cycle[C]. 2011 Fourth International Joint Conference on Computational Sciences and Optimization. IEEE Press, Kunming, P.R. China,2011.4.15-4.19
+
+[23]Dabin Zhang, Hou Zhu*, Jingguang Zhang. Forecasting of Customs Export Based on Gray Theory[C]. Proceedings of the 2009 International Conference on Business Intelligence and Financial Engineering. IEEE Press, Beijing, P.R. China,2009.7.24-7.26
+
+[24]张大斌,王婧*,刘桂琴,朱侯. 基于伪并行遗传算法的聚类分析方法[J]. 计算机工程与设计,2009,30(1):171-174.
+
+[25]张大斌,王婧*,刘桂琴,朱侯. 模糊自适应遗传算法[J]. 计算机工程与设计, 2008, 29(18): 4783-4785.
+
+[26]张大斌,刘桂琴*,王婧,朱侯. 基于群体编码方式的遗传算法求解装箱问题[J]. 计算机工程与设计,2008,29(12):3154-3156.
+
+获奖情况
+
+
+2013年获博士生国家奖学金； 
+2013年获华中科技大学三好研究生
+
+工作经历
+
+
+2019年1月至今，任中山大学信息管理学院副教授
+
+2014年6月至2019年1月，任中山大学资讯管理学院讲师

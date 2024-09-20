@@ -1,0 +1,50 @@
+简介
+    张帅，管理学博士，中山大学信息管理学院科研博士后。主要研究方向为用户行为与健康信息学，主持和参与国家级、省部级等科研项目10余项，在Computers in Human Behavior、Science Communication、Information Processing & Management、《中国图书馆学报》等国内外高水平期刊发表学术论文30余篇，担任国内外多种学术期刊及会议审稿人。
+
+学术专长
+
+    信息管理与情报学
+
+研究方向
+
+    用户信息行为；健康信息学；社交媒体分析
+
+教育背景
+
+    2019.9-2022.6 武汉大学信息管理学院，情报学，管理学博士
+
+著作论文
+
+    近五年代表性论文
+        1.    Zhang, S., Zhang, Y., Li, J., Ni, Z., & Liu, Z. (2024). Heart or mind  The impact of congruence on the persuasiveness of cognitive versus affective appeals in debunking messages on social media during public health crises. Computers in Human Behavior, 154, 108136. (SSCI Q1, TOP期刊)
+        2.    Zhang, S., Hou, J., Zhang, Y., Yao, Z., & Zhang, Z. (2024). Detecting social media rumor debunking effectiveness during public health emergencies: An interpretable machine learning approach. Science Communication, Forthcoming. (SSCI Q1, TOP期刊)
+        3.    Zhang, S., Pian, W., Ma, F., Ni, Z., & Liu, Y. (2021). Characterizing the COVID-19 infodemic on Chinese social media: exploratory study. JMIR Public Health and Surveillance, 7(2), e26090. (SCI/SSCI Q1)
+        4.    Zhang, S., Ma, F., Liu, Y., & Pian, W. (2022). Identifying features of health misinformation on social media sites: an exploratory analysis. Library Hi Tech, 40(5), 1384-1401. (SSCI Q2)
+        5.    马费成, 张帅. 我国图书情报领域新兴交叉学科发展探析 [J]. 中国图书馆学报, 2023, 49(2): 4-14. (CSSCI, FMS T1)
+        6.    张帅, 马费成. 大学生健康信息规避量表构建研究[J]. 图书情报工作, 2020, 64 (9): 3-9. (CSSCI, FMS T2)
+        7.    Ainiwaer, A., Zhang, S., Ainiwaer, X., & Ma, F. (2021). Effects of message framing on cancer prevention and detection behaviors, intentions, and attitudes: systematic review and meta-analysis. Journal of Medical Internet Research, 23(9), e27634. (SCI Q1, TOP期刊)
+        8.    Liu, Y., Zhang, S., Chen, M., Wu, Y., & Chen, Z. (2021). The sustainable development of financial topic detection and trend prediction by data mining. Sustainability, 13(14), 7585. (SCI/SSCI Q2)
+        9.    Chi, J., Pian, W., & Zhang, S. (2020). Consumer health information needs: A systematic review of instrument development. Information Processing & Management, 57(6), 102376. (SCI/SSCI Q1, TOP期刊)
+        10.    Ni, Z., Qian, Y., Yao, Z., & Zhang, S. (2023). Understanding the adoption of dietary interventions within a Chinese autism online community: A diffusion of innovations perspective. Health Communication, 38(6), 1266-1277. (SSCI Q1)
+
+获奖情况
+	2021年度武汉大学学术创新奖一等奖
+	2020年第十届全国情报学博士生学术论坛优秀论文二等奖
+	2019年《图书情报工作》优秀论文
+	2018年研究生国家奖学金
+
+
+工作经历
+    2022.9-至今 中山大学信息管理学院，博士后
+
+ 
+
+研究经历
+    主持项目
+            中国博士后科学基金面上项目(2023M734062)
+            教育部人文社会科学基金青年项目(23YJC870013)
+    参与项目
+        国家自然科学基金国际(地区)合作研究与交流重点项目(71420107026)
+        国家自然科学基金重大研究计划重点项目(91646206)
+        国家社科基金重大研究专项项目(19VXK09)
+        国家社会科学基金重大项目(23&ZD226)

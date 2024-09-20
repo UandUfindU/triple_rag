@@ -1,0 +1,159 @@
+人物简介
+
+
+余维杰，计算机应用技术专业博士，现任中山大学信息管理学院副教授，硕士研究生导师。主要从事人工智能、数据挖掘与知识发现、信息素养等领域的教学与科研工作。在国内外高水平期刊和学术会议上发表论文50余篇，其中包括ESI高被引论文1篇，中山大学认定的一类重要期刊论文17篇，累计影响因子190.9，被引用1500余次。主持国家社会科学基金项目、国家自然科学基金项目、广东省社科规划项目、广州市科技菁英“领航”项目等多项。主讲并参与建设的2门信息素养教育课程先后入选国家级一流本科课程。曾获广东省科技进步奖二等奖、广东省学位与研究生教育学会优秀教育成果奖、ACM广州新星奖。
+
+学术专长
+
+
+情报学、计算机应用技术
+
+研究方向
+
+
+人工智能、数据挖掘与知识发现、信息素养、数字素养
+
+研究经历
+
+
+1. 国家社会科学基金一般项目，大中小学一体化数字素养教育内容框架与实施路径研究，主持人
+
+2. 国家自然科学基金青年项目，面向大规模优化问题的分布式Memetic算法研究，主持人
+
+3. 广东省哲学社会科学规划项目，乡村振兴战略下广东省农民数字素养培育内容框架与提升策略研究，主持人
+
+4. 广东省科技计划项目，面向智能制造的智能工控平台研发与应用，中山大学项目负责人
+
+5. 广州市科技菁英“领航”项目，数据驱动的大规模群体智能优化方法与应用，主持人
+
+6. 中山大学青年教师培育项目，智能文本聚类方法及其在科技情报领域的应用研究，主持人
+
+7. 中山大学青年教师起步计划项目，分布式计算智能算法研究，主持人
+
+8. 国家社会科学基金重大项目，粤港澳大湾区建设国际科创中心知识产权情报保障研究，参与人
+
+9. 国家社会科学基金重大项目，古籍保护学科建设与理论体系研究，参与人
+
+10. 国家自然科学基金重点项目，分布式计算智能理论及应用，参与人
+
+11. 国家社会科学基金一般项目，全民信息素养框架构建与提升策略研究，参与人
+
+12. 国家自然科学基金面上项目，运用新型分布估计算法优化保险投资方案的研究，参与人
+
+13. 国家自然科学基金面上项目，云计算多工作流调度的动态分布式粒子群优化方法研究，参与人
+
+14. 国家自然科学基金面上项目，基于云计算的协同进化粒子群算法及应用研究，参与人
+
+15. 国家自然科学基金青年项目，基于知识图谱的用户长尾需求建模研究，参与人
+
+16. 国家自然科学基金青年项目，基于云计算的自适应分布式差分进化算法研究，参与人
+
+17. 国家自然科学基金青年项目，基于云计算模型的自组织差分进化算法及其应用研究，参与人
+
+18. 国家社科基金青年项目，技术赋能视阈下人文学者的数字学术需求及其图书馆服务策略研究，参与人
+
+19. 教育部人文社科研究青年项目，社会化媒体用户-平台互动均衡下隐私规制机理研究，参与人
+
+20. 广州市科技计划项目，基于大数据的急性胸痛疾病人工智能诊疗模式及关键技术研究
+
+教育背景
+
+
+2009.9至2014.6，中山大学计算机系，计算机应用技术，博士（硕博连读）
+2005.9至2009.7，中山大学计算机系，网络工程，学士
+
+著作论文
+
+
+一、期刊论文
+
+
+	余维杰,史瑜君,周晟欣,杨阳.基于弹幕的动态用户画像研究——以在线教育场景为例[J/OL].情报科学.
+	杨阳,余维杰(通讯作者).融合弹幕内容特征与行为特征的用户画像研究——以B站教学类视频为例[J].情报科学,2022,40(12):161-169.
+	吴锦池,余维杰(通讯作者).融合知识库语义的文本聚类研究[J].情报杂志,2021,40(05):156-164.
+	吴锦池,余维杰(通讯作者).基于社会网络分析的政务微博影响力研究[J].情报科学,2021,39(02):78-85.
+	吴锦池,余维杰(通讯作者).图书馆数据治理成熟度评价体系构建[J].情报科学,2021,39(01):65-71.
+	余维杰,周娅莉,吴锦池.我国研究生在科研活动中的数据素养现状研究——以双生命周期理论为视角[J].图书情报工作,2020,64(07):84-93.
+	余维杰,陈思琪,陈序.国内外数据素养研究的文献计量分析[J].图书馆理论与实践,2019(12):32-39.
+	Shuai Z, Liu H, Wan Z, Yu W J（余维杰）, et al. A Self-adaptive neuroevolution approach to constructing Deep Neural Network architectures across different types[J]. Applied Soft Computing, 2023, 136: 110127.
+	Ma Z, Zhong J, Liu W L, Yu W J（余维杰）. An evolutionary framework for automatic security guards deployment in large public spaces[J]. Applied Intelligence, 2023, 53(10): 11586-11598.
+	Ge Y F, Yu W J（余维杰，通讯作者）, Cao J, et al. Distributed memetic algorithm for outsourced database fragmentation[J]. IEEE Transactions on Cybernetics, 2021, 51(10): 4808-4820.
+	Ji J Y, Yu W J（余维杰，通讯作者）, Zhong J, et al. Density-enhanced multiobjective evolutionary approach for power economic dispatch problems[J]. IEEE Transactions on Systems, Man, and Cybernetics-Systems, 2021, 51(4): 2054-2067.
+	Huang S, Zhong J, Yu W J（余维杰）. Surrogate-assisted evolutionary framework with adaptive knowledge transfer for multi-task optimization[J]. IEEE Transactions on Emerging Topics in Computing, 2021, 9(4): 1930-1944.
+	Cong H, Chen W N, Yu W J（余维杰）. A two-stage information retrieval system based on interactive multimodal genetic algorithm for query weight optimization[J]. Complex & Intelligent Systems, 2021, 7(5): 2765-2781.
+	Ge Y F, Yu W J（余维杰，通讯作者）, Lin Y, et al. Distributed differential evolution based on adaptive mergence and split for large-scale optimization[J]. IEEE Transactions on Cybernetics, 2018, 48(7): 2166-2180.
+	Yu W J（余维杰）, Shen M, Chen W N, et al. Differential evolution with two-level parameter adaptation[J]. IEEE Transactions on Cybernetics, 2014, 44(7): 1080-1099.
+	Yu W J（余维杰）, Ji J Y, Gong Y J, et al. A tri-objective differential evolution approach for multimodal optimization[J]. Information Sciences, 2018, 423: 1-23.
+	Ji J Y, Yu W J（余维杰，通讯作者）, Gong Y J, et al. Multiobjective optimization with  -constrained method for solving real-parameter constrained optimization problems[J]. Information Sciences, 2018, 467: 15-34.
+	Yu W J（余维杰）, Li J Z, Chen W N, et al. A parallel double-level multiobjective evolutionary algorithm for robust optimization[J]. Applied Soft Computing, 2017, 59: 258-275.
+	Yu W J（余维杰）, Zhan Z H, Zhang J. Artificial bee colony algorithm with an adaptive greedy position update strategy[J]. Soft Computing, 2018, 22(2): 437-451.
+	Wang Z J, Zhan Z H, Yu W J（余维杰）, et al. Dynamic group learning distributed particle swarm optimization for large-scale optimization and its application in cloud workflow scheduling[J]. IEEE Transactions on Cybernetics, 2020, 50(6): 2715-2729.
+	Wang Z J, Zhan Z H, Lin Y, Yu W J（余维杰）, et al. Automatic niching differential evolution with contour prediction approach for multimodal optimization problems[J]. IEEE Transactions on Evolutionary Computation, 2020, 24(1): 114-128.
+	Wang Z J, Zhan Z H, Lin Y, Yu W J（余维杰）, et al. Dual-strategy differential evolution with affinity propagation clustering for multimodal optimization problems[J]. IEEE Transactions on Evolutionary Computation, 2018, 22(6): 894-908.
+	Jia Y H, Chen W N, Gu T, Yu W J（余维杰）, et al. A dynamic logistic dispatching system with set-based particle swarm optimization[J]. IEEE Transactions on Systems, Man, and Cybernetics-Systems, 2018, 48(9): 1607-1621.
+	Jia Y H, Zhou Y R, Lin Y, Yu W J（余维杰）, et al. A distributed cooperative co-evolutionary CMA evolution strategy for global optimization of large-scale overlapping problems[J]. IEEE Access, 2019, 7: 19821-19834.
+	Zhang J, Chen W N, Zhan Z H, Yu W J（余维杰）, et al. A survey on algorithm adaptation in evolutionary computation[J]. Frontiers of Electrical and Electronic Engineering, 2012, 7(1): 16-31.
+
+
+ 
+
+二、会议论文
+
+
+	Liu X X, Liu D, Yang Q, Liu X F, Yu W J（余维杰）. Comparative Analysis of Five Local Search Operators on Visiting Constrained Multiple Traveling Salesmen Problem[C]//2021 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2021: 01-08.
+	Sun B, Wang C, Yang Q, Liu W, Yu W J（余维杰）. Ant colony optimization for balanced multiple traveling salesmen problem[C]//2021 International Conference on Computational Science and Computational Intelligence (CSCI). IEEE, 2021: 476-481.
+	Yong-Feng Ge, Jinli Cao, Hua Wang, Jiao Yin, Wei-Jie Yu (余维杰，通讯作者), et al., “A Benefit-driven genetic algorithm for balancing privacy and utility in database fragmentation,” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2019), 2019, pp. 167-168. 
+	Jing-Yu Ji, Wei-Jie Yu (余维杰，通讯作者), and Jun Zhang, “Solving Nonlinear Equation Systems Using Multiobjective Differential Evolution,” in Proc. International Conference on Evolutionary Multi-Criterion Optimization (EMO 2019), 2019, pp. 139-150.
+	Yong-Feng Ge, Wei-Jie Yu (余维杰，通讯作者), Zhi-Hui Zhan, and Jun Zhang, “Competition-Based Distributed Differential Evolution,” in Proc. IEEE Congr. Evol. Comput. (CEC 2018), 2018.
+	Jing-Yu Ji, Wei-Jie Yu (余维杰，通讯作者), and Jun Zhang, “A two-stage coevolution approach for constrained optimization,” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2017), 2017, pp. 167-168.
+	Jing-Yu Ji, Wei-Jie Yu (余维杰，通讯作者), et al., “Solving multimodal optimization problems through a multiobjective optimization approach,” in Proc. IEEE International Conference on Information Science and Technology (ICIST 2017), 2017, pp. 458-463.
+	Yong-Feng Ge, Wei-Jie Yu (余维杰，通讯作者), Jing-Jing Li, Zhi-Wen Yu, and Jun Zhang, “Enhancing distributed differential evolution with a space-driven topology,” in Proc. IEEE Congr. Evol. Comput. (CEC 2016), 2016, pp. 4090-4095.
+	Yong-Feng Ge, Wei-Jie Yu (余维杰，通讯作者), and Jun Zhang, “Diversity-based multi-population differential evolution for large-scale optimization,” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2016), 2016, pp. 31-32.
+	Wei-Jie Yu (余维杰), Jing-Jing Li, Jun Zhang, and Meng Wan, “Differential evolution using mutation strategy with adaptive greediness degree control,” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2014), 2014, pp.73-80.
+	Wei-Jie Yu (余维杰), Jun Zhang, and Wei-Neng Chen, “Adaptive artificial bee colony optimization,” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2013), 2013, pp. 153-157.
+	Wei-Jie Yu (余维杰) and Jun Zhang, “Adaptive differential evolution with optimization state estimation,” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2012), 2012, pp. 1285-1292.
+	Wei-Jie Yu (余维杰) and Jun Zhang, “Multi-population differential evolution with adaptive parameter control for global optimization,” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2011), 2011, pp. 1093-1098.
+	Wei-Jie Yu (余维杰) and Jun Zhang, “Pheromone-distribution-based adaptive ant colony system,” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2010), 2010, pp. 31-38.
+	Wei-Jie Yu (余维杰), Xiao-Min Hu, Jun Zhang, and Rui-Zhang Huang, “Self-adaptive ant colony system for the traveling salesman problem,” in Proc. IEEE Conf. on Syst., Man, Cybern. (SMC 2009), 2009, pp. 1399-1404.
+	Zhi-Hui Zhan, Yong-Xing Wang, Zi-Jia Wang, Wei-Jie Yu (余维杰), and Jun Zhang, “Competitive Swarm Optimizer with Dynamic Grouping for Large Scale Optimization,” in Proc. IEEE Congr. Evol. Comput. (CEC 2018), 2018.
+	Da-Zhao Tan, Wei-Neng Chen, Jun Zhang, and Wei-Jie Yu (余维杰), “Fast pedestrian detection using multimodal estimation of distribution algorithms,” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2017), 2017, pp. 1248-1255.
+	Xin Situ, Wei-Neng Chen, Yue-Jiao Gong, Ying Lin, Wei-Jie Yu (余维杰), Zhiwen Yu, Jun Zhang, “A parallel ant colony system based on region decomposition for taxi-passenger matching,” in Proc. IEEE Congr. Evol. Comput. (CEC 2017), 2017, pp. 960-967.
+	Yong-Feng Ge, Yue-Jiao. Gong, Wei-Jie Yu (余维杰), et al. “Reconstructing cross-cut shredded text documents: a genetic algorithm with splicing-driven reproduction” in Proc. ACM Genetic Evol. Comput. Conf. (GECCO 2015), 2015, pp. 847-853.
+	Xiao-Min Hu, Zhi-Hui Zhan, Ying Lin, Yue-Jiao Gong, Wei-Jie Yu (余维杰), et al., “Multiobjective genetic algorithm for demand side management of smart grid,” in Proc. IEEE Symposium on Computational Intelligence in Scheduling (SCIS 2013), 2013, pp. 14-21.
+
+
+获奖情况
+
+
+2023年，《信息素养与信息检索通用教程》入选国家级一流本科课程
+
+2023年，中山大学第十一届本科教育教学成果二等奖
+
+2023年，中山大学优秀班主任
+
+2022年，中山大学年度考核“优秀”
+
+2021年，广东省科技进步奖二等奖
+
+2021年，广东省学位与研究生教育学会优秀教育成果奖
+
+2020年，《信息素养通识教程：数字化生存的必修课》入选首批国家级一流本科课程
+
+2019年，《信息素养通识教程：数字化生存的必修课》入选国家精品在线开放课程
+
+2019年，中山大学第九届教学成果奖二等奖
+
+2017年，ACM广州新星奖
+
+2017年，中山大学年度考核“优秀”
+
+2016年，中山大学“采联”青年教师奖励金
+
+2016年，中山大学年度考核“优秀”
+
+工作经历
+
+
+2018.4至今，中山大学信息管理学院，副教授
+
+2014.11至2018.4，中山大学信息管理学院，讲师

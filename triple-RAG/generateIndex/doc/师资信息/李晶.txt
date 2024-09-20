@@ -1,0 +1,103 @@
+人物简介
+
+
+李晶，副教授、博士生导师，武汉大学管理学博士，中国科学院科技战略咨询研究院博士后，美国威斯康辛麦迪逊分校访问学者。主要从事用户研究、科技信息分析等方面的研究工作。主持国家社会科学基金项目、教育部人文社会科学基金项目、广东省自然科学基金项目等国家级和省部级科研项目9项，作为主要成员参与中国南方航空股份有限公司、广东省科技厅等企事业单位委托的技术咨询项目多项，在SSCI、SCI收录的国际期刊以及国内重要核心期刊、国际学术会议上发表学术论文70余篇，出版著作3部，担任中国科学学与科技政策研究会专委会委员、国内外多种核心期刊评审专家等学术职务。
+
+学术专长
+
+
+用户与信息行为、信息计量与科技评价
+
+研究方向
+
+
+AI信息治理、用户体验、交互式服务设计、科技数据分析、学术评价、学科评价、教育质量评价
+
+研究经历
+
+
+(1) 国家社会科学基金重大项目，人工智能颠覆性应用的社会影响与信息治理研究，2023-12至今，主要参与，在研。
+
+(2) 广东省基础与应用基础研究基金面上项目，同行评审认知偏差测度与干预策略研究，2023-01 至今，主持，在研。
+
+(3) 全国哲学社会科学一般项目，科技论文创新质量的微观测度及应用研究，2022-09 至今，主持，在研。
+
+(4) 教育部人文社会科学研究规划基金项目，创新导向的学术影响力评价模型与应用研究，2021至今，主持，在研。
+
+(5) 广东省社科“十三五”学科共建项目，社交媒体数据驱动的用户应急信息行为模式研究，2021至今，主持，已结题。
+
+(6) 中央高校基本科研业务费专项资金资助项目，期刊评价的公平性与改进策略研究，2019-2021，主持，已结题。
+
+(7) 国家社会科学基金项目，基于社交媒体的学术交流行为模式及优化策略研究，2017-2020，主持，已结题。
+
+(8) 教育部人文社会科学研究项目青年基金项目，社会化媒体信息质量感知及用户信息行为影响规律和优化研究，2015-2018，主持，已结题。
+
+教育背景
+
+
+2010.9-2013.6  武汉大学信息管理学院，情报学，管理学博士
+
+2007.9-2010.6  安徽大学管理学院，情报学，管理学硕士
+
+2004.2-2007.6  安徽大学管理学院，图书馆学，管理学学士
+
+著作论文
+
+
+近五年代表性的论文和著作
+
+(1) Li, Jing; Long, Qiushuang; Lu, Xiaoli; Wu, Dengsheng. Citation beneficiaries of discipline-specific mega-journals: who and how much[J]. Humanities and Social Sciences Communications 2023, 10:541. (SSCI Q1, AHCI Q1)
+
+(2) Li, Jing; Zhang, Shiqi; Ao, Wenting. Why is instant messaging not instant  Understanding users’ negative use behavior of instant messaging software[J]. Computers in Human Behavior, 2023, 142:107655. (SSCI Q1)
+
+(3) Li, Jing; Yang, Xue; Lu, Xiaoli; Wu Dengsheng. Making journals more international: Language subject differences and impact performance[J], Learned Publishing, 2023, doi: 10.1002/leap.1567. (SSCI Q2)
+
+(4) 李晶, 龙秋爽. 基于同行评审视角的学术创新认知、同量偏差及改进方法研究[J/OL]．情报理论与实践, 2023, https://link.cnki.net/urlid/11.1762.G3.20230816.1759.004. （CSSCI）
+
+(5) 李晶, 龙秋爽, 明均仁. 突发公共事件背景下信息源选择多样性研究：概念内涵与测度方法[J]. 图书馆论坛, 2023, 43(2): 3-13. （CSSCI）
+
+(6) 李晶. 科学2.0时代科研人员学术交流行为研究[M]. 武汉: 武汉大学出版社, 2021.
+
+(7) Li, Jing; Zhao, He; Shah Hussain; et al. The Dark Side of Personalization Recommendation in Short-Form Video Applications: An Integrated Model from Information Perspective[C]// International Conference on Information, 2021: 99-113.
+
+(8) 李晶, 薛晨琦, 宋昊阳. 人机交互中的社会临场感研究——以弹幕短视频为例[J]. 图书馆论坛, 2021(11): 1-12. （CSSCI）
+
+(9) 李晶, 薛晨琦, 刘婵, 等. 突发风险情境下大学生信息搜寻行为研究——关键影响因素与信息处理模式[J]. 现代情报, 2021, 41(11): 69-79. （CSSCI）
+
+(10) 李晶, 赵雪君, 方润菁. 美国健康信息学教育认证制度: 课程建设的特色与启示[J]. 图书馆建设, 2021, 311(5): 142-151. （CSSCI）
+
+(11) 李晶, 潘佳欣. 信息系统强迫使用情境与用户行为: 基于腾讯会议软件的实证研究[J].情报理论与实践, 2021, 44(12): 141-147. （CSSCI）
+
+(12) 李晶, 郭财强, 明均仁. 移动图书馆用户满意度影响因素的动态演变研究[J]. 图书馆建设, 2021, 309(3): 113-121+142. （CSSCI）
+
+(13) 李晶, 陈志燕, 陈明红. 眼动追踪实验法在信息行为领域的应用研究[J]. 情报学报, 2020, 39(1): 90-99. （CSSCI）
+
+(14) Wu, Dengsheng; Lu, Xiaoli; Li, Jianping; Li, Jing*. Does the institutional diversity of editorial boards increase journal quality  The case economics field[J]. Scientometrics, 2020, 124(2): 1579-1597. (SSCI Q2)
+
+(15) Li, Jing; Lu, Xiaoli; Li, Jianping; et al. Evaluating journal quality by integrating department journal lists in a developing country: Are they representative [J]. Journal of Academic Librarianship, 2019, 45(6): 1-10. (SSCI Q3)
+
+(16) 李晶, 张帅, 王文韬. 科研社交网络中用户学术社交不足的前置动因探究——质性研究的视角[J]. 现代情报, 2019, 39(2): 121-144. （CSSCI）
+
+(17) 李晶, 章彰, 张帅. 跨学科团队信息交流规律研究:以威斯康辛麦迪逊分校为例[J].图书情报工作, 2019, 63(3): 115-122. （CSSCI）
+
+获奖情况
+
+
+2020年年度考核获校级优秀等级
+
+2021年度校级优秀班主任
+
+中山大学第十届、第十一届教学成果二等奖
+
+2022年广东省教育厅“五‘破’五‘立’深化新时代教育评价改革”主题征文二等奖
+
+工作经历
+
+
+2019.5至今              中山大学信息管理学院 副教授 院长助理
+
+2013.12–2019.4      安徽大学管理学院   副教授
+
+2017.12–2018.12    美国威斯康辛麦迪逊分校信息学院 访问学者
+
+2015.12–2017.12    中国科学院科技战略咨询研究院 博士后

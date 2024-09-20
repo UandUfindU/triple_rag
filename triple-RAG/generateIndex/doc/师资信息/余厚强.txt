@@ -1,0 +1,131 @@
+
+余厚强，管理学博士，中山大学信息管理学院副教授，硕士生导师。亚太信息学院青年委员会委员，中国科学计量学与信息计量学专委会委员，中文信息学会社交媒体专委会委员，国际科学计量学与信息计量学学会终身会员，美国信息科学技术学会会员。长期从事数据科学与替代计量、科学交流与科技评价、档案法学与国家治理的教研工作。主持国家自然科学基金项目2项、教育部人文社会科学基金项目2项，广东省社科基金1项，参与重要科研项目10余项。担任SSCI期刊编委，AP iNext委员，CSSI委员，SMP委员，国内外多种核心期刊和项目的评审专家。更多详情请见个人主页http://yuhouq.github.io
+
+
+
+
+ 
+
+
+
+
+学术专长
+
+
+数据科学和替代计量、科学交流与科技评价
+
+研究方向
+
+
+数据科学、信息计量、科学计量、替代计量、社交媒体、科学交流、科技评价、科技政策、信息可视化、知识管理、知识服务
+
+研究经历
+
+
+主持项目
+
+
+	国家自然科学基金面上项目（72274227），在研。
+	教育部人文社会科学基金项目（22YJA870016），在研。
+	国家自然科学基金项目（NO.71804067），已结项。
+	教育部人文社会科学基金项目（18YJC870023），已结项。
+	广州市基础与应用基础基金项目，在研。
+	中山大学人才引进基金项目，在研。
+	中山大学高校基本科研业务费青年项目，在研。
+	中山大学本科教育质量工程项目“***课程思政研究”，已结项。
+	中央高等基本科研业务费专项资金资助项目（No. 30920021203），已结项。
+	中央高等基本科研业务费专项资金资助项目（No.30918013107），已结项。
+
+
+参与项目
+
+
+	国家社会科学基金一般项目（22BTQ097），在研。
+
+
+
+	国家自然科学基金面上项目（71974094），在研。
+	国家社会科学基金重点项目（14AZD084），已结项。
+	国家社会科学基金重大项目（11&ZD152），已结项。
+	国家自然科学基金应急管理项目（61842602），已结项。
+	总装备部项目多项。
+
+
+
+
+
+教育背景
+
+
+2007.09-2011.08，中山大学，信息管理与信息系统，管理学学士
+
+2009.09-2010.02，香港城市大学，计算机科学，交流学习
+
+2011.09-2017.06，武汉大学，情报学，管理学博士
+
+2015.09-2017.03，北卡莱罗纳大学教堂山分校，信息科学，公派联培
+
+著作论文
+
+
+已发表同行评议论著100余篇（部），近年的代表性论著如下
+
+
+	Yu, H., Yao R. (2023). How are Policy Document Mentions to Academic Papers Accumulated  Proceeding of the 2023 ASIST Annual Meeting. London, UK.
+	Yu, H., Lin J., & Huang Y. (2023). Proposing Conference Leadership Index to Measure Scholarly Impact of Academic Institutions: An Empirical Study in Artificial Intelligence Field. Proceedings of the 19th ISSI Conference. Indiana University, Bloomington, USA.
+	Yu, H., Li L., & Liang Y. (2023). Investigating the Distribution of WeChat Mentions to Scholarly Papers in China. Proceedings of the 19th ISSI Conference. Indiana University, Bloomington, USA.
+	Yu, H., Ma C., & Liang Y. (2023). Is Zhihu Mention to Academic Papers Useful for Altmetrics Studies  Proceedings of the 19th ISSI Conference. Indiana University, Bloomington, USA.
+	Yu, H., Wang, Y., Zhang, W., Xiao, T., & Hou, J. (2023). Who shares scholarly output on Facebook  A systematic investigation into their location, productivity and identities. Journal of Information Science, 0(0). https://doi.org/10.1177/01655515231165632
+	Yu, H., Wang, Y., Hussain, S. et al. (2023). Towards a better understanding of Facebook Altmetrics in LIS field: assessing the characteristics of involved paper, user and post. Scientometrics. https://doi.org/10.1007/s11192-023-04678-6
+	陈涛,苏日娜,张永娟,张靖,余厚强*.智慧数据驱动的古籍智慧性保护体系研究[J].中国图书馆学报,2023,49(01):68-81.
+	Yu, H., Li, L., Cao X., & Chen T. Exploring country's preference over news mentions to academic papers.[J]. Journal of Informetrics, 2022, 16(4): 1751-1771.
+	Yu, H., Yu, X., & Cao, X. (2022). How accurate are news mentions of scholarly output  A content analysis. Scientometrics, 127(7), 4075-4096.
+	余厚强.替代计量学的理论框架研究[J].情报学报,2022,41(08):775-785.
+	Yu, H., Murat, B., Li, L. et al. (2021) How accurate are Twitter and Facebook altmetrics data  A comparative content analysis. Scientometrics. 126, 4437–4463.
+	余厚强,曹雪婷. Mendeley阅读指标视角下的中美国际论文影响力比较研究[J]. 信息资源管理学报,2021,11(03):77-87.
+	余厚强,曹雪婷,王曰芬. 新闻替代计量指标的分布特征研究[J]. 情报学报,2020,39(10):1081-1092.
+	Yu, H., Cao, X., Xiao, T. et al. How accurate are policy document mentions  A first look at the role of altmetrics database. (2020), Scientometrics. 125(11), 1517–1540.
+	余厚强. 替代计量学：概念、指标与应用.[M]中国北京, 科学技术文献出版社，2019.
+	Yu, H.Q., Xiao, T.T., Xu, S.M., & Wang, Y.F. (2019). Who posts scientific tweets  An investigation into the productivity, locations, and identities of scientific tweeters. Journal of Informetrics, 13(3), 841-855.
+	Yu H.Q., Cao X.T., Xiao T.T. & Yang Z.Y. Accuracy of Policy Document Mentions: the Role of Altmetrics Databases [C]// Proceedings of the 17th International Conference for Scientometrics and Informetrics, Rome, Italy. 2019.
+	余厚强,任全娥,张洋,刘春丽.Altmetrics的译名分歧:困扰、影响及其辨析[J].中国图书馆学报,2019,45(1):47~59
+	余厚强，曹雪婷.替代计量数据质量评估体系构建研究[J].图书情报知识，2019, 188(02):21-29+52.
+	Xu, S.M., Yu, H.Q., Hemminger, B.M. et al. Who, what, why  An exploration of JoVE scientific video publications in tweets .[J]Scientometrics, 2018, 117(2):845-856
+	余厚强，董克，王曰芬，章成志. 基于科学推文视角的非正式科学交流语言分布研究. [J] 中国图书馆学报，2018，(2):91-101.
+	王曰芬,李冬琼,余厚强. 生命周期阶段中的科学合作网络演化及高影响力学者成长特征研究[J]. 情报学报,2018,37(02):121-131.
+	余厚强，王曰芬，王菲菲，陈必坤. 科学推文作者行为模式与地理分布研究. [J] 情报学报，2018,(2):140-150.
+	Yu, H.Q., Xu, S.M., & Xiao, T.T. (2018). Is there Lingua Franca in informal scientific communication  Evidence from language distribution of scientific tweets. Journal of Informetrics, 12(3), 605-617.
+	Yu, H.Q., Xu, S.M., Xiao, T.T., Hemminger, B.M., etc. (2017). Global science discussed in local altmetrics: Weibo and its comparison with Twitter. Journal of Informetrics. 11(2): 466-482.
+	Yu, H.Q. (2017). Context of altmetrics matters: investigation to count type and user category. Scientometrics. 111(1): 267-283.
+	Yu, L.P., & Yu, H.Q. (2016). Does the average JIF percentile make a difference . Scientometrics, 109(3), 1979-1987.
+	余厚强,肖婷婷,王曰芬,邱均平. 政策文件替代计量指标分布特征研究[J]. 中国图书馆学报,2017,43(05):57-69.
+	余厚强. 替代计量指标与引文量相关性的大规模跨学科研究——数值类型、指标种类与用户类别的影响[J]. 情报学报, 2017, 36(6):606-617.
+	余厚强， Bradley M. Hemminger，肖婷婷，邱均平. 新浪微博替代计量指标特征分析.[J]中国图书馆学报，2016.
+	邱均平, 余厚强.论推动替代计量学发展的若干基本问题[J]中国图书馆学报, 2015.
+	杨思洛, 邱均平, 丁敬达，余厚强. 网络环境下国内学者引证行为变化与学科间差异——基于历时角度的分析[J].中国图书馆学报, 2016.
+
+
+获奖情况
+
+
+
+	2022年9月，第十三届科学计量学与科教评价国际研讨会优秀论文奖
+	2021年11月，中国情报学年会暨情报工作发展论坛优秀论文奖
+	2020年1月，综合考评优秀。
+	2017年6月，武汉大学优秀毕业生
+	2015年12月，武汉大学学术创新奖一等奖
+	2015年5月，第九届武汉大学十大学术之星
+
+
+其它称号
+
+
+中山大学百人计划
+
+工作经历
+
+
+2021.07-至今，中山大学，副教授
+
+2017.06-2021.06，南京理工大学，副教授
+
